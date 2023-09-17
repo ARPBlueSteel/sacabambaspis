@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "github.io/arpbluesteel/sacabambaspis",
+    baseUrl: "arpbluesteel.github.io/sacabambaspis",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
