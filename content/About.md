@@ -15,4 +15,23 @@ Ethan Yu (he/him, Grad 2024)
 ## Contributors
 
 
-# How You(Yes you) Can help
+# How to contribute to this site
+
+## Contributing Resources
+
+We at Project Sacabambaspis appreciate all types of resources, including but not limited to:
+
+- Notes (paper or digital notes)
+- Flashcards (quizlet, anki)
+- EE, IA, TOK Essay/Exhibition exemplars
+
+If you have resources regarding IB please contact **Ethan Yu** (arpbluesteel) on discord.
+
+>[!warning]
+>Do not send us copyrighted content such as past papers and textbooks. This site runs the risk of getting taken down by GitHub if the holder decides to strike it. There are plenty of places on the internet to find this sort of stuff.
+## Paying US
+
+We literally do this for free and for the benefit of RHS students. As such, it would be nice once in a while for people to buy us a coffee or something and give us some hope in human decency.
+
+**PayPal Link TBA**
+
