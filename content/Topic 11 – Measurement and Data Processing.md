@@ -1,31 +1,28 @@
 
-**Topic 11 – Measurement and Data Processing**  
+# Topic 11 – Measurement and Data Processing
 
->[!question] **Big ideas:** 
+### **Big ideas:** 
 > - [ ] All measured values must be expressed with appropriate units in order to have meaning. 
 > - [ ] Quantitative data are obtained from measurements, and are always associated with random errors/uncertainties, determined by the apparatus and by human limitations such as reaction time. 
 > - [ ] Propagation of random errors in data processing shows the impact of the uncertainties on the final result. 
 > - [ ] Experimental design, procedure and equipment can all lead to systematic errors in measurement, which cause a deviation in a particular direction. 
 > - [ ] Random errors affect the precision of a measurement while systematic errors affect its accuracy. 
 > - [ ] Repeat trials and measurements will reduce random errors but not systematic errors. 
-
-**Students will be able to…** 
+### **Students will be able to…** 
 
 - [ ] Convert within both metric and non-metric unit systems. 
 - [ ] Record uncertainties in all measurements as a range (±) to an appropriate precision. 
 - [ ] Distinguish between random and systematic errors. 
 - [ ] Distinguish between accuracy and precision when evaluating results. 
 - [ ] Propagate uncertainties in processed data, including the use of percentage uncertainties. 
-
-**Theory of Knowledge questions/connections:**  
-
+### **Theory of Knowledge questions/connections:** 
 - [ ] Scientists report uncertainties on a measurement to quantify its precision, but some non-scientists interpret these uncertainties as meaning “but we don’t really know”.** 
 - [ ] Does the inclusion of an uncertainty make a measurement more or less clear?** 
 - [ ] How do measurement uncertainties impact how scientific results are received by the public?*
 - [ ] How can we improve communication and understanding with respect to scientific results and issues?
 
 >[!quote]
-*“As we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns – the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones.”*
+>*“As we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns – the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones.”*
 >![[Pasted image 20230922115656.png|100]]
 >– Donald Rumsfeld, U.S. Secretary of Defense, Feb. 12, 2002 
 
@@ -633,28 +630,26 @@ c)  13.92 ± 0.02 mL or 13.90 ± 0.05 mL  d)  SMD/5:  8.6 or 8.7 ± 0.1 mL, or S
 b) Your measurement should have a *large relative uncertainty* (and hence *few significant figures*), but be very close to the accepted value. For example, something like (3±2)×108 m/s or (3.0±0.9)×108 m/s. 
 
 6. a) Your measurements should have small relative uncertainties and be closely clustered together (i.e. highly reproducible), but not be close to the accepted value. For example: 0.99±0.01 g/cm3, 1.00±0.01 g/cm3, 1.01±0.01 g/cm3 (maybe this person confused water for iron ☺)
-2) Your measurements should have large relative uncertainties and vary significantly from one to the other (i.e. not be reproducible), but the average of the measurements should be close to the accepted value. This one is a little more difficult to craft a realistic example for, but consider something like: 1.0±0.5 g/cm3, 2.5±0.5 g/cm3, 20±10 g/cm3 (compute this average to convince yourself that this set is *accurate*, in a sense)
-2) Pretty straight-forward here. Just like (a) but close to the accepted value. Something like 7.873±0.001 g/cm3, 7.874±0.001 g/cm3, 7.875±0.001 g/cm3 works nicely. 
-7. a)  8000 ± 2000 cm3   b)  27 ± 6 cm   c)  320 ± 40 cm   d)  4.7 ± 0.8 cm 8 ± 1 
+7) Your measurements should have large relative uncertainties and vary significantly from one to the other (i.e. not be reproducible), but the average of the measurements should be close to the accepted value. This one is a little more difficult to craft a realistic example for, but consider something like: 1.0±0.5 g/cm3, 2.5±0.5 g/cm3, 20±10 g/cm3 (compute this average to convince yourself that this set is *accurate*, in a sense)
+8) Pretty straight-forward here. Just like (a) but close to the accepted value. Something like 7.873±0.001 g/cm3, 7.874±0.001 g/cm3, 7.875±0.001 g/cm3 works nicely. 
+9. a)  8000 ± 2000 cm3   b)  27 ± 6 cm   c)  320 ± 40 cm   d)  4.7 ± 0.8 cm 8 ± 1 
 
    5) 9 ± 1   f)   8 ± 1  g)  0.08 ± 0.01   Question: Why are the answers to e, f and g *unitless*? 
-7. 130 ± 10 L  
-7. $0.38 ± 0.04… but you can bet they charge a lot more than that in the store! ☺ 
-7. a) 1.0±0.2 km2/h (rounded from 0.96±0.16 km2/h)  b) 3.1 ± 0.4 km2/h  c) 3.6 ± 0.3 km2/h 
-7. The best example of *random error* is the built-in limitation in the glassware itself, i.e. the ±0.05 mL uncertainty of the buret. Note that this is actually a very small amount of random error; burets are among our most precise pieces of glassware and have very small relative uncertainties. A beaker, for example, introduces a lot more random error into measurements (as we clearly saw during Part A of the Coke lab). You could have also discuss things like temperature fluctuations or shaky tables, but they are weaker examples.  
-
+10. 130 ± 10 L  
+11. $0.38 ± 0.04… but you can bet they charge a lot more than that in the store! ☺ 
+12. a) 1.0±0.2 km2/h (rounded from 0.96±0.16 km2/h)  b) 3.1 ± 0.4 km2/h  c) 3.6 ± 0.3 km2/h 
+13. The best example of *random error* is the built-in limitation in the glassware itself, i.e. the ±0.05 mL uncertainty of the buret. Note that this is actually a very small amount of random error; burets are among our most precise pieces of glassware and have very small relative uncertainties. A beaker, for example, introduces a lot more random error into measurements (as we clearly saw during Part A of the Coke lab). You could have also discuss things like temperature fluctuations or shaky tables, but they are weaker examples.  
 A great example of *systematic error* is someone who doesn’t eject the air bubble from the buret tip before dispensing the 25.00 mL. This would introduce a negative bias into their measurement since they will be dispensing less than 25.00 mL of liquid each time (the first mL or so will be air!). Another example is dispensing from too great a height so that some liquid splashes out of the beaker (also a negative bias). Note that something like consistently reading the buret from below eye-level is not a systematic error. Why not?  
 
 12. What a great question! So great, in fact, that I think I’ll add something very similar to it on your test! 
 
 In summary, remember that there are two primary ways that a measurement can be precise. Precise *single measurements* have small uncertainties and hence many significant figures. Precise *data sets* (i.e. repeated measurements/trials) are highly reproducible (there is little variability from one trial to the next).  
 
-Being accurate is less nuanced: simply make a measurement that is “correct” (close to the accepted/known value).  Final piece of advice: On our Unit Test…make sure your calculations are *accurate*, and your language is *precise*. ☺ ![](Aspose.Words.875f4e8a-78b4-4b5a-ad8c-ea85ad6208d1.040.png)
+Being accurate is less nuanced: simply make a measurement that is “correct” (close to the accepted/known value).  
+
+Final piece of advice: On our Unit Test…make sure your calculations are *accurate*, and your language is *precise*. ☺
 
 [^1]: U.S. Press Operations (Producer). (2002, Feb. 12). *Defense.gov News Transcript: DoD News Briefing – Secretary Rumsfeld and Gen. Myers* [Interview transcript]. Retrieved from[ http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636](http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636)
-[ref1]: Aspose.Words.875f4e8a-78b4-4b5a-ad8c-ea85ad6208d1.019.png
-[ref2]: Aspose.Words.875f4e8a-78b4-4b5a-ad8c-ea85ad6208d1.022.png
-[ref3]: Aspose.Words.875f4e8a-78b4-4b5a-ad8c-ea85ad6208d1.023.png
 
 
 
