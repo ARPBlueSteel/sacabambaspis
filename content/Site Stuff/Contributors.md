@@ -1,6 +1,3 @@
-The follow are individuals who have made contributions to this site
-
-
 ```
 format:
 
