@@ -2,14 +2,14 @@
 # Topic 11 – Measurement and Data Processing
 
 ### **Big ideas:** 
-> - [ ] All measured values must be expressed with appropriate units in order to have meaning. 
-> - [ ] Quantitative data are obtained from measurements, and are always associated with random errors/uncertainties, determined by the apparatus and by human limitations such as reaction time. 
-> - [ ] Propagation of random errors in data processing shows the impact of the uncertainties on the final result. 
-> - [ ] Experimental design, procedure and equipment can all lead to systematic errors in measurement, which cause a deviation in a particular direction. 
-> - [ ] Random errors affect the precision of a measurement while systematic errors affect its accuracy. 
-> - [ ] Repeat trials and measurements will reduce random errors but not systematic errors. 
-### **Students will be able to…** 
 
+- [ ] All measured values must be expressed with appropriate units in order to have meaning. 
+- [ ] Quantitative data are obtained from measurements, and are always associated with random errors/uncertainties, determined by the apparatus and by human limitations such as reaction time. 
+- [ ] Propagation of random errors in data processing shows the impact of the uncertainties on the final result. 
+- [ ] Experimental design, procedure and equipment can all lead to systematic errors in measurement, which cause a deviation in a particular direction. 
+- [ ] Random errors affect the precision of a measurement while systematic errors affect its accuracy. 
+- [ ] Repeat trials and measurements will reduce random errors but not systematic errors. 
+### **Students will be able to…** 
 - [ ] Convert within both metric and non-metric unit systems. 
 - [ ] Record uncertainties in all measurements as a range (±) to an appropriate precision. 
 - [ ] Distinguish between random and systematic errors. 
@@ -23,7 +23,6 @@
 
 >[!quote]
 >*“As we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns – the ones we don't know we don't know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones.”*
->![[Pasted image 20230922115656.png|100]]
 >– Donald Rumsfeld, U.S. Secretary of Defense, Feb. 12, 2002 
 
 
@@ -34,9 +33,10 @@ The quality of any given measurement can be described in terms of *accuracy* or 
 
 Example:  The density of water (at 4ºC) is known to be **1.00 g/mL** 
 
-| |**Single measurement** |**Set of three measurements**  |
-|**“Accurate”** |- |➢  ➢ |
-|**“Inaccurate”** |➢ ➢ |➢  ➢ |
+|                  | **Single measurement** | **Set of three measurements** |
+| ---------------- | ---------------------- | ----------------------------- |
+| **“Accurate”**   | -                      | ➢  ➢                          |
+| **“Inaccurate”** | ➢ ➢                    | ➢  ➢                          |
 
 **Precision:**   The *reproducibility* of multiple measurements, often described by an uncertainty (±)      
 The number of significant figures (digits) reported also reflects a measurement’s precision.   
