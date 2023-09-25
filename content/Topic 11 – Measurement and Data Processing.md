@@ -1,6 +1,4 @@
 
-# Topic 11 – Measurement and Data Processing
-
 ### **Big ideas:** 
 
 - [ ] All measured values must be expressed with appropriate units in order to have meaning. 
