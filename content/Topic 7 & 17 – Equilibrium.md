@@ -45,27 +45,23 @@ Two reactions are happening **simultaneously**:
 > - Substances continue to change from products to reactants and vice versa, but the forward and reverse rates are equal.
 > - The amounts (concentrations) of reactants and products are constant.
 
-Examples of *physical equilibrium systems*:
+### Examples of *physical equilibrium systems*:
 
-![[Pasted image 20230924193322.png]]
-a glass of ice water at 0 degrees C
-$H_2O_{(s)}\rightleftharpoons H_2O_{(l)}$
+![[Pasted image 20230924193954.png]]
+a glass of ice water at 0 degrees C: $H_2O_{(s)}\rightleftharpoons H_2O_{(l)}$
+a bottle of water at 20 degrees C: $H_2O_{(l)}\rightleftharpoons H_2O_{(g)}$
+a bottle of soda water: $CO_{2(aq)}\rightleftharpoons CO2_{(g)}$
 
-![[Pasted image 20230924193349.png]]
-a bottle of water at 20 degrees C
-$H_2O_{(l)}\rightleftharpoons H_2O_{(g)}$
 
-![[Pasted image 20230924193356.png]]
-a bottle of soda water
-$CO_{2(aq)}\rightleftharpoons CO2_{(g)}$
-
-Examples of *chemical equilibrium systems*:
+### Examples of *chemical equilibrium systems*:
 
 **The ozone-oxygen equilibrium in the atmosphere:**        3O2(g) ⇌** 2O3(g)
 **Vinegar (a weak acid) solution:**  CH3COOH(aq) + H2O(l) ⇌** H3O+(aq) + CH3COO–(aq)
 **Oxygen transport in the human body(by a protein called *hemoglobin*):**  
 
 In class, we used a *macro-level analogy* to introduce the concept of dynamic equilibrium. The setup included two large beakers to contain the water and two smaller beakers to transfer the water between the two large beakers:  **rev rxn**
+
+![[Pasted image 20230924194134.png]]
 
 - Beakers **A** and **B** represent **concentrations of reactants and products**
 - Beakers **X** and **Y** represent **rates of the forward and reverse reactions**
@@ -74,7 +70,7 @@ In class, we used a *macro-level analogy* to introduce the concept of dynamic eq
 
 **Case 2:**  Start with Beaker A empty, but Beaker B full instead. (analogous to initial conditions where only products are present, no reactants)
   
-## **Fundamental features of chemical (dynamic) equilibria:**
+### **Fundamental features of chemical (dynamic) equilibria:**
 
 - Dynamic equilibria can only be established in a *closed system*. There can be no transfer of material (mass) or energy to or from the surroundings.
 - At equilibrium, *the concentrations of reactants and products are constant.*
