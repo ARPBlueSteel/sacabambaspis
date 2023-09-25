@@ -35,7 +35,7 @@ However, *many chemical reactions do not go to completion* because a reverse rea
 
 Consider the following equilibrium system: 
 
-$$\ce{N2_{(g)}+3H2_{(g)}<=>2NH3_{(g)}}$$
+$$N_{2(g)}+3H_{2(g)}\rightleftharpoons2NH_{3(g)}$$
 
 Two reactions are happening **simultaneously**:
 - Nitrogen gas and hydrogen gas are reacting to form ammonia (the *forward* reaction)
@@ -47,9 +47,17 @@ Two reactions are happening **simultaneously**:
 
 Examples of *physical equilibrium systems*:
 
-a glass of ice water
-a bottle of water
+![[Pasted image 20230924193322.png]]
+a glass of ice water at 0 degrees C
+$H_2O_{(s)}\rightleftharpoons H_2O_{(l)}$
+
+![[Pasted image 20230924193349.png]]
+a bottle of water at 20 degrees C
+$H_2O_{(l)}\rightleftharpoons H_2O_{(g)}$
+
+![[Pasted image 20230924193356.png]]
 a bottle of soda water
+$CO_{2(aq)}\rightleftharpoons CO2_{(g)}$
 
 Examples of *chemical equilibrium systems*:
 
