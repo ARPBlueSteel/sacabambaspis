@@ -9,9 +9,9 @@
 5. The most famous departure point was Lomboko in Sierra Leone
 6. It is estimated that over 12 million slaves were taken from Africa
 ## Transatlantic Slave Trade
- ![[Pasted image 20220927141423.png|200]]
-7. The captured slaves were shipped across the Atlantic, called the Middle Passage, to the West Indies where they were used in the sugar cane industry. In the United States, slaves were used in the cotton industry.
 
+7. The captured slaves were shipped across the Atlantic, called the Middle Passage, to the West Indies where they were used in the sugar cane industry. In the United States, slaves were used in the cotton industry.
+   
 - During the 13th colonies era, slavery was present throughout the 13 colonies. However, slaves had slightly more rights compared to their 1800s counterparts and were able to negotiate their freedom or be paid. By the 1800s, there were free blacks in the North.
 - African had an abundance of resources such as diamonds and precious ores. And Europeans started arriving in Africa. Europeans were able to trade weapons and good to certain kingdoms in Africa in exchange for captured prisoners as slaves.
 - **"Seasoned":** (for an enslaved)to acclimatize to American climate in order to be sold off.
@@ -47,7 +47,6 @@
 **Zong**, a ship thrown 130 enslaved overboard due to disease and increasing financial cost. Court ruled in favour but decision caused outcry among abolitionists.
 ##### Chattel
 A term for enslaved that dehumanized them
-
 ## The 13 Colonies
 ![[Pasted image 20220929142055.png|500]]
   **New England**
@@ -207,20 +206,16 @@ Term first emerged in the North prior to 1860 to describe the Southern way of li
 - 1805-1879
 - Personification of the abolitionist movement
 - Jan. 1, 1831 published the first issue of the Liberator
-![[Pasted image 20221118145359.png]]
 - Until late 1830s, Garrison cooperation with other abolitionists but his support of radical pacifism, women's rights, anticlericalism, and perfectionism caused a break.
 - 1842, Garrison took a controversial position that Northerns should disavow allegiance to the Union since the Union supported slavery.
 - 1850s, Garrison condoned violent resistant of 1850 Fugitive Slave Law and announced support in war against the South.
 - After Civil War, Garrison worked for creation of freeman aid and black equality
-
 ### The Liberator
 - Continuous weekly publication that lasted until 1865 served as a personal sounding board for Garrison's views
 - Also regarded by some as an authoritative voice of radical Yankee social reform in general
 - Garrison believed in "moral suasion" and insisted that slavery would be abolished once mass of white Americans experienced a revolution in conscience.
 - Called for sustained programs of agitation that aimed to convert grass-roots public opinion in favour of black emancipation and race equality
 ## Theodore Dwight Weld
-
-![[Pasted image 20221122143634.png|200]]
 - Disciple of preacher Charles G. Finney
 - Created theological school at Oberlin College in Ohio in 1834
 - Tappan brothers provided TD Weld with financial support to spread the abolitionist message
@@ -254,8 +249,6 @@ Term first emerged in the North prior to 1860 to describe the Southern way of li
 - Term "underground railroad" is believed to have originated with slave, Tice Davis who fled form Ripley, Ohio to Canada.
 - She is reported to have said "...gone off on some underground railroad."
 
-![[Pasted image 20221201141436.png]]
-
 >[!warning]
 >Not a real railroad
 
@@ -267,16 +260,16 @@ Approximately 30000-40000 tried to free to Canada but approximately 15000-20000 
 
 >## Underground Railroad Terminology
 > 
-> Passengers: Runaway Slaves
-> Conductor or agents: helped slaves to escape
-> Cargo: Slaves or Passengers
-> Station Keepers: People who helped hide the slaves
-> Lines or tracks: Escape Routes
-> Terminals: Destination points or end of the line
-> North Star: the star, or points north to Canada
-> Water Tank: place to get food and drink
-> Firebox: dangerous place
-> Railroad car: wagon
+> - Passengers: Runaway Slaves
+> - Conductor or agents: helped slaves to escape
+> - Cargo: Slaves or Passengers
+> - Station Keepers: People who helped hide the slaves
+> - Lines or tracks: Escape Routes
+> - Terminals: Destination points or end of the line
+> - North Star: the star, or points north to Canada
+> - Water Tank: place to get food and drink
+> - Firebox: dangerous place
+> - Railroad car: wagon
 
 > Harriet Tubman - Mother of Underground Railroad. (Moses of Underground Railroad). 
 > Levi Coffin - Father of the underground railroad. (President)
