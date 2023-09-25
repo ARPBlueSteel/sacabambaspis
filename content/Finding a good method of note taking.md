@@ -19,9 +19,8 @@ Also, keep in mind what classes you will be taking when developing a note taking
 
 ## How do you organize information?
 
-idk watch this video lmao uuhhhh it explains shit better than me
+[idk watch this video lmao uuhhhh it explains shit better than me](https://www.youtube.com/watch?v=f3dDVtJ2sec)
 
-![](https://www.youtube.com/watch?v=f3dDVtJ2sec)
 
 
 
