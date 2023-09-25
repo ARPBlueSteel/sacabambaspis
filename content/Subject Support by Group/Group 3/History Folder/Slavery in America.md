@@ -11,10 +11,12 @@
 ## Transatlantic Slave Trade
  ![[Pasted image 20220927141423.png|300]]
 7. The captured slaves were shipped across the Atlantic, called the Middle Passage, to the West Indies where they were used in the sugar cane industry. In the United States, slaves were used in the cotton industry.
-	- During the 13th colonies era, slavery was present throughout the 13 colonies. However, slaves had slightly more rights compared to their 1800s counterparts and were able to negotiate their freedom or be paid. By the 1800s, there were free blacks in the North.
-	- African had an abundance of resources such as diamonds and precious ores. And Europeans started arriving in Africa. Europeans were able to trade weapons and good to certain kingdoms in Africa in exchange for captured prisoners as slaves.
-	- **"Seasoned":** (for an enslaved)to acclimatize to American climate in order to be sold off.
-	- Conditions in slavery were incredibly inhumane 
+
+- During the 13th colonies era, slavery was present throughout the 13 colonies. However, slaves had slightly more rights compared to their 1800s counterparts and were able to negotiate their freedom or be paid. By the 1800s, there were free blacks in the North.
+- African had an abundance of resources such as diamonds and precious ores. And Europeans started arriving in Africa. Europeans were able to trade weapons and good to certain kingdoms in Africa in exchange for captured prisoners as slaves.
+- **"Seasoned":** (for an enslaved)to acclimatize to American climate in order to be sold off.
+- Conditions in slavery were incredibly inhumane 
+
 8. The first slaves arrived in Jamestown, Virginia in 1619.
 9.  Because of the cruelty of slavery, Great Britain finally outlawed slave trade by **1808**, followed by Portugal and Spain.
 10. The USA banned the importation of slaves in **1808**, but there was already around 4 million slaves in the USA.
