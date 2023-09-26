@@ -8,7 +8,6 @@
 [[Finding a good method of note taking| Not Sure which one fits you?]]
 ### Markdown Based
 - Notion https://www.notion.so/
-- Evernote https://evernote.com/
 - Obsidian https://obsidian.md/
 - Bear https://bear.app/
 https://logseq.com/
@@ -19,4 +18,12 @@ https://logseq.com/
 - Goodnotes https://www.goodnotes.com/
 - Onenote https://www.onenote.com/
 ## Time Management:
+> I would try all of these out to see which one fits you the best - Ethan
+- Notion https://www.notion.so/
+- Calendar https://calendar.google.com
+- Trello https://trello.com/home
+- Cron https://cron.com
 
+## Revision/Memorization
+- Anki https://apps.ankiweb.net
+- Quizlet https://quizlet.com

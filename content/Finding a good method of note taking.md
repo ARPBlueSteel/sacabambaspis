@@ -19,8 +19,24 @@ Also, keep in mind what classes you will be taking when developing a note taking
 
 ## How do you organize information?
 
-[idk watch this video lmao uuhhhh it explains shit better than me](https://www.youtube.com/watch?v=f3dDVtJ2sec)
+[idk watch this video lmao uuhhhh it explains better than me](https://www.youtube.com/watch?v=f3dDVtJ2sec)
 
+# Examples of Note Taking Methods
 
+## Physical Note Taking
 
+###  Paper
 
+## Digital Note Taking
+
+### Obsidian
+Values:
+- Highly customizable and can be made to suit the user
+- If you have some understanding of Typescript you can add features
+- Completely free (you can support the developer for early access)
+- Lightweight and runs well on older devices, notes are easily transferred between different platforms
+
+Limitation:
+- Nonexistent stylus support means that taking notes during math is a pain
+- Offline, so syncing is dependent on the user (or you can pay the devs \$8 a month)
+- Can be too simplistic due to its bare bones nature, plugins are annoying to configure
