@@ -68,9 +68,14 @@ New Spain. The Spanish Empire was to last for the next 300 years and make Spain 
 European country. The Empire however, had to be administered with a line of command from the top down.
 The foundations of the Empire would be based on Feudalism, Patriarchal Society, and Paternalistic Society
 
-**Feudalism** = Social, economic and political organization of Medieval Europe. The economic structure was that of serfs (peasants) who worked the land while lords and kings provided military protection and government.
-**Patriarchal Society** = the social organization of society when the male, the King is at the top of society and a country is controlled from the top down. In New Spain, the patriarchal families controlled most countries
-**Paternalistic Society** = Society is organized with the male on top or "Father Knows Best" (King)
+**Feudalism**:
+Social, economic and political organization of Medieval Europe. The economic structure was that of serfs (peasants) who worked the land while lords and kings provided military protection and government.
+
+**Patriarchal Society**:
+the social organization of society when the male, the King is at the top of society and a country is controlled from the top down. In New Spain, the patriarchal families controlled most countries
+
+**Paternalistic Society**:
+Society is organized with the male on top or "Father Knows Best" (King)
 
 ### Characteristics of the Spanish Empire
 
@@ -85,16 +90,10 @@ Government was considered to be paternalistic and patriarchal and not very democ
 The Roman Catholic Church was not very tolerant of other religions and was an arm of the Empire.
 The social order was very feudal, with a social caste/class system that often was at odds with one another and produced conflict within the Empire.
 ### Social Classes:
-1. Peninsulars - were white Spaniards born in Spain and controlled the colonial governments in New
-Spain. They consisted of Viceroys, Governors, Governor General, Captain-Generals and major
-bureaucrats. Some were also wealthy businessmen, landowners and Dons of patriarchal families.
-2. Creoles — were white Spaniards, born in the new world and consisted of merchants, land owners, mine
-owners and landed aristocracy. Many Creoles were forbidden to hold high government or military
-positions.
+1. Peninsular - were white Spaniards born in Spain and controlled the colonial governments in New Spain. They consisted of Viceroys, Governors, Governor General, Captain-Generals and major bureaucrats. Some were also wealthy businessmen, landowners and Dons of patriarchal families.
+2. Creoles — were white Spaniards, born in the new world and consisted of merchants, land owners, mine owners and landed aristocracy. Many Creoles were forbidden to hold high government or military positions.
 3. Mestizos—were people of mixed races, being the offspring of Creoles, Europeans and Indians.
-4. Indians and Blacks -formed the last social class. Slaves/Blacks were at the bottom of the social system.
-Over time, the Indians and Blacks assimilated together with the Mestizos. Together, they are the
-Mestizo class and the people of Latin America today.
+4. Indians and Blacks -formed the last social class. Slaves/Blacks were at the bottom of the social system. Over time, the Indians and Blacks assimilated together with the Mestizos. Together, they are the Mestizo class and the people of Latin America today.
 ## Part 4
 ### The Roman Catholic Church
 
