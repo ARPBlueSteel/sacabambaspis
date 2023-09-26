@@ -169,3 +169,50 @@ also his dreams for a new country.
 LEGACY: Bolivar's government in Gran Columbia established the pattern of government for New Spain —
 Latin America. Government was somewhere between democratic and dictatorial combined with a lack of
 civil rights and economic inequality. The same applies today.
+
+Part 6:
+I. Independence in Latin America
+There were four common factors that brought about independence in Latin American countries from the
+period 1804 - 1824.
+They included:
+I.
+2.
+3.
+4.
+There was a growing sense of nativism, meaning greater self-awareness of the Creole class who desired
+to have independence from Spain. The nativism in turn would be expressed in terms of
+romanticism, nationalism and the awareness of an American.
+There was a great deal Of resentment Of the Spanish economic control, which included monopolies,
+excessive taxation, exploitation of resources, slavery and the need to reform the mercantile system to
+free trade.
+The influence of the Age of Enlightenment had swept over Latin America, as well as the influences of
+the American and French Revolutions. The ideas of the Enlightenment would trickle down to the
+masses, and make the wars of Liberation a popular movement. However, the ideas of the
+Enlightenment probably had less impact on the masses in Latin America than it did in the 13 colonies
+because of the literacy rate.
+The decline of Spain under the Spanish King would cause problems within the Empire. In addition, as
+Napoleon came to dominate both countries (France and Spain) and Spain involved in a war
+with England, a window of opportunity opened for the independence movements in South America to
+flourish.
+(I. Independence in Brazil
+In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was given Brazil. Brazil was first discovered
+by accident by Pedro Alvares Cabril in 1501. The name Brazil comes from a redwood tree. On Jan. I, 1502,
+Amerigo Vespucci sailed into a bay with a river running into it. Vespucci established the city of Rio de Janeiro
+(River of January). The history Of Brazil that followed was similar to the Spanish experience. The Tupis Indians
+were conquered, died Off Of diseases, and were assimilated with the slave Its empire was very
+similar to the Spanish in how it was constructed, but it was not as well run as the Spanish Empire. Beginning in
+the middle of the 16th century, Portugal established an empire based on slavery, the church and mercantilist
+policies. By the beginning of the 19th century, the conflict was the mazambos and the Portuguese born
+reinois. The difference with Portugal and Spain was that Portugal's monarch was not the problem.
+Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade
+policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with
+Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the
+independence movement. The king recognized this change in society, left Brazil, and turned the government
+over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of
+independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct.
+1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was
+abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States.
+Brazil was then officially called the Republic of the United States of Brazil.
+The 20th century has not been that kind to Brazil as its government constantly changed between republics,
+military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship
+under Getulio Vargas. There has been a series of republics and dictatorships ever since.
