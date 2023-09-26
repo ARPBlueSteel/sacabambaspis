@@ -11,7 +11,7 @@
 - Evernote https://evernote.com/
 - Obsidian https://obsidian.md/
 - Bear https://bear.app/
-
+https://logseq.com/
 [What is Markdown?](https://www.markdownguide.org/getting-started/)
 ### IDK WHERE TO PUT THIS LOL
 - https://keep.google.com/
