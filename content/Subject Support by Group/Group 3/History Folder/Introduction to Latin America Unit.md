@@ -66,34 +66,25 @@ It was "God, Glory and Gold" that drove the Spanish. This was the slogan for God
 With the success of the Spanish Conquistadors, Cortez and Pizarro, Spain acquired a new Empire that they called
 New Spain. The Spanish Empire was to last for the next 300 years and make Spain a wealthy and powerful
 European country. The Empire however, had to be administered with a line of command from the top down.
-The foundations of the Empire would be based on 1) Feudalism 2) Patriarchal Society 3) Paternalistic Society
-Feudalism = Social, economic and political organization of Medieval Europe. The economic structure was that
-of serfs (peasants) who worked the land while lords and kings provided military protection and government.
-Patriarchal Society = the social organization of society when the male, the King is at the top of society and a
-country is controlled from the top down. In New Spain, the patriarchal families controlled most countries
-Paternalistic Society = Society is organized with the male on top or "Father Knows Best" (King)
+The foundations of the Empire would be based on Feudalism, Patriarchal Society, and Paternalistic Society
 
-II. Characteristics of the Spanish Empire
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-The empire was a highly centralized Empire from top to bottom with the Empire under the control of
-the council of Indies. At times, Spain had trouble administrating its large empire, but over 300 years,
-the Empire worked rather well.
-Because of the mercantile economic policies, there was little opportunity for local economic
-development, with all wealth (gold) flowing back to Spain.
-The balance of power always rested with the King, and his officials, the Viceroy and Governor, who
-obeyed but did not always follow. They did run the empire in an efficient manner.
+**Feudalism** = Social, economic and political organization of Medieval Europe. The economic structure was that of serfs (peasants) who worked the land while lords and kings provided military protection and government.
+**Patriarchal Society** = the social organization of society when the male, the King is at the top of society and a country is controlled from the top down. In New Spain, the patriarchal families controlled most countries
+**Paternalistic Society** = Society is organized with the male on top or "Father Knows Best" (King)
+
+### Characteristics of the Spanish Empire
+
+The empire was a highly centralized Empire from top to bottom with the Empire under the control of the council of Indies. At times, Spain had trouble administrating its large empire, but over 300 years, the Empire worked rather well.
+
+Because of the mercantile economic policies, there was little opportunity for local economic development, with all wealth (gold) flowing back to Spain.
+
+The balance of power always rested with the King, and his officials, the Viceroy and Governor, who obeyed but did not always follow. They did run the empire in an efficient manner.
+
 There was always a strong military presence that would allow Spain to rule through intimidation.
 Government was considered to be paternalistic and patriarchal and not very democratic.
 The Roman Catholic Church was not very tolerant of other religions and was an arm of the Empire.
-The social order was very feudal, with a social caste/class system that often was at odds with one
-another and produced conflict within the Empire.
-Ill. Social Classes:
+The social order was very feudal, with a social caste/class system that often was at odds with one another and produced conflict within the Empire.
+### Social Classes:
 1. Peninsulars - were white Spaniards born in Spain and controlled the colonial governments in New
 Spain. They consisted of Viceroys, Governors, Governor General, Captain-Generals and major
 bureaucrats. Some were also wealthy businessmen, landowners and Dons of patriarchal families.
@@ -105,7 +96,6 @@ positions.
 Over time, the Indians and Blacks assimilated together with the Mestizos. Together, they are the
 Mestizo class and the people of Latin America today.
 ## Part 4
-
 ### The Roman Catholic Church
 
 >[!question]
@@ -132,22 +122,23 @@ Effects:
 ### Conclusion
 In New Spain, the Roman Catholic Church became a very important and omnipotent institution in the process of building an empire and as an integral part of the empire.
 
-Part 5:
-I. Bolivar
-"Bolivar was a better general than a politician."
-"A brilliant soldier but a politician."
-"Bolivar was a dictator, and not a democrat."
+## Part 5:
+### Bolivar
+>[!quote]
+>"Bolivar was a better general than a politician."
+>"A brilliant soldier but a politician."
+>"Bolivar was a dictator, and not a democrat."
+
 WHY:
-I. Bolivar had the personality of a military man, which was one of dominance, control and
-authoritarianism.
-2. Bolivar in a strong central government, or federalism. This idea was reflected in the ideas of
-Rousseau and Montesquieu. Even in Bolivar's own writings, he expressed the idea of the power of a
-central government.
-Books: Jamaica Letter 1815
-Angostura Discourse 1819
-Bolivia — Columbia (Gran Columbia] Constitution - Federalist
-Bolivar believed in liberty, equality, and social justice in a democratic system, but he never practiced
-them.
+1. Bolivar had the personality of a military man, which was one of dominance, control and authoritarianism.
+2. Bolivar in a strong central government, or federalism. This idea was reflected in the ideas of Rousseau and Montesquieu. Even in Bolivar's own writings, he expressed the idea of the power of a central government.
+
+Books: 
+- Jamaica Letter 1815
+- Angostura Discourse 1819
+- Bolivia - Columbia \[Gran Columbia\] Constitution - Federalist
+Bolivar believed in liberty, equality, and social justice in a democratic system, but he never practiced them.
+
 Some of his non-democratic ideas were:
 a) Executive branch of government has to have most of the power (President)
 b) Republican form of government
@@ -155,64 +146,28 @@ c) Didn't believe people should vote
 d) Constitutional Assembly should have limited powers
 e) An appointed president for life
 f) The president could appoint his own successor
-g) There would be a body of censors who were to safeguard civil rights and
-principle of the constitution (but actually restricted civil rights)
+g) There would be a body of censors who were to safeguard civil rights and principle of the constitution (but actually restricted civil rights)
 As Bolivar stated: "all the strength of centralized government, all the stability of monarchical regimes"
-3. Bolivar admired the British Of government but with a president, not a king. He wanted a
-government that was somewhere between a democratic republic and a dictatorship. Bolivar became
-President of Gran Columbia [Venezuela, Columbia, Panama, and Ecuador], but he never allowed for
-democratic rule and his country fell apart along with the idea of Pan-Americanism or a United States
-of South America.
-4. Bolivar was faced with constant rebellions and defiance within Gran Columbia. Bolivar met this
-challenge as a dictator with abuse of civil rights and the use of the army to crush his opposition and
-also his dreams for a new country.
-LEGACY: Bolivar's government in Gran Columbia established the pattern of government for New Spain —
-Latin America. Government was somewhere between democratic and dictatorial combined with a lack of
-civil rights and economic inequality. The same applies today.
 
-Part 6:
-I. Independence in Latin America
-There were four common factors that brought about independence in Latin American countries from the
-period 1804 - 1824.
+3. Bolivar admired the British Of government but with a president, not a king. He wanted a government that was somewhere between a democratic republic and a dictatorship. Bolivar became President of Gran Columbia (Venezuela, Columbia, Panama, and Ecuador), but he never allowed for democratic rule and his country fell apart along with the idea of Pan-Americanism or a United States of South America.
+4. Bolivar was faced with constant rebellions and defiance within Gran Columbia. Bolivar met this challenge as a dictator with abuse of civil rights and the use of the army to crush his opposition and also his dreams for a new country.
+
+>[!note] Legacy
+> Bolivar's government in Gran Columbia established the pattern of government for New Spain - Latin America. Government was somewhere between democratic and dictatorial combined with a lack of civil rights and economic inequality. The same applies today.
+
+## Part 6:
+### Independence in Latin America
+There were four common factors that brought about independence in Latin American countries from the period 1804 - 1824.
 They included:
-I.
-2.
-3.
-4.
-There was a growing sense of nativism, meaning greater self-awareness of the Creole class who desired
-to have independence from Spain. The nativism in turn would be expressed in terms of
-romanticism, nationalism and the awareness of an American.
-There was a great deal Of resentment Of the Spanish economic control, which included monopolies,
-excessive taxation, exploitation of resources, slavery and the need to reform the mercantile system to
-free trade.
-The influence of the Age of Enlightenment had swept over Latin America, as well as the influences of
-the American and French Revolutions. The ideas of the Enlightenment would trickle down to the
-masses, and make the wars of Liberation a popular movement. However, the ideas of the
-Enlightenment probably had less impact on the masses in Latin America than it did in the 13 colonies
-because of the literacy rate.
-The decline of Spain under the Spanish King would cause problems within the Empire. In addition, as
-Napoleon came to dominate both countries (France and Spain) and Spain involved in a war
-with England, a window of opportunity opened for the independence movements in South America to
-flourish.
-(I. Independence in Brazil
-In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was given Brazil. Brazil was first discovered
-by accident by Pedro Alvares Cabril in 1501. The name Brazil comes from a redwood tree. On Jan. I, 1502,
-Amerigo Vespucci sailed into a bay with a river running into it. Vespucci established the city of Rio de Janeiro
-(River of January). The history Of Brazil that followed was similar to the Spanish experience. The Tupis Indians
-were conquered, died Off Of diseases, and were assimilated with the slave Its empire was very
-similar to the Spanish in how it was constructed, but it was not as well run as the Spanish Empire. Beginning in
-the middle of the 16th century, Portugal established an empire based on slavery, the church and mercantilist
-policies. By the beginning of the 19th century, the conflict was the mazambos and the Portuguese born
-reinois. The difference with Portugal and Spain was that Portugal's monarch was not the problem.
-Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade
-policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with
-Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the
-independence movement. The king recognized this change in society, left Brazil, and turned the government
-over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of
-independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct.
-1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was
-abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States.
-Brazil was then officially called the Republic of the United States of Brazil.
-The 20th century has not been that kind to Brazil as its government constantly changed between republics,
-military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship
-under Getulio Vargas. There has been a series of republics and dictatorships ever since.
+
+1. There was a growing sense of nativism, meaning greater self-awareness of the Creole class who desired to have independence from Spain. The nativism in turn would be expressed in terms of romanticism, nationalism and the awareness of an American.
+
+2. There was a great deal Of resentment Of the Spanish economic control, which included monopolies, excessive taxation, exploitation of resources, slavery and the need to reform the mercantile system to free trade.
+
+3. The influence of the Age of Enlightenment had swept over Latin America, as well as the influences of the American and French Revolutions. The ideas of the Enlightenment would trickle down to the masses, and make the wars of Liberation a popular movement. However, the ideas of the Enlightenment probably had less impact on the masses in Latin America than it did in the 13 colonies because of the literacy rate. 
+
+4. The decline of Spain under the Spanish King would cause problems within the Empire. In addition, as Napoleon came to dominate both countries (France and Spain) and Spain involved in a war with England, a window of opportunity opened for the independence movements in South America to flourish.
+
+### Independence in Brazil
+
+In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was given Brazil. Brazil was first discovered by accident by Pedro Alvares Cabril in 1501. The name Brazil comes from a redwood tree. On Jan. I, 1502, Amerigo Vespucci sailed into a bay with a river running into it. Vespucci established the city of Rio de Janeiro (River of January). The history Of Brazil that followed was similar to the Spanish experience. The Tupis Indians were conquered, died Off Of diseases, and were assimilated with the slave Its empire was very similar to the Spanish in how it was constructed, but it was not as well run as the Spanish Empire. Beginning in the middle of the 16th century, Portugal established an empire based on slavery, the church and mercantilist policies. By the beginning of the 19th century, the conflict was the mazambos and the Portuguese born reinois. The difference with Portugal and Spain was that Portugal's monarch was not the problem. Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the independence movement. The king recognized this change in society, left Brazil, and turned the government over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct. 1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States. Brazil was then officially called the Republic of the United States of Brazil. The 20th century has not been that kind to Brazil as its government constantly changed between republics, military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship under Getulio Vargas. There has been a series of republics and dictatorships ever since.
