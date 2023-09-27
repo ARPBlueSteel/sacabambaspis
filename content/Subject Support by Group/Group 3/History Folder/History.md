@@ -5,9 +5,10 @@ understanding through a detailed analytical approach of historical events, polit
 The course is for grade 11 and 12 students and is integrated with the regular Provincial World History 12 Program. Students who successfully complete the two-year Higher Level History course will be granted credit for two Provincial Social Studies 1 1/12 courses. On the successful completion of the LB. History 12 Exams, the student may receive credit for first year university depending on his or her exam standings.
 
 # History 11 HL
-## United States Civil War: causes, course and effects 1840-77
-### [[Slavery in America]]
+
+[[Slavery in America]]
 
 # History 12 HL
 
-[[Introduction to Latin America Unit]]
+[[Introduction to Latin America Notes]]
+[[Introduction to Latin America Duotang]]

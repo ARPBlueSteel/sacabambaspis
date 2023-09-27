@@ -113,7 +113,7 @@ Effects:
 1) The Church and State were one or equal partners in the building of an empire. The Jesuits were effective empire builders, thus "Glory. Gold, and God".
 2) One of the purposes of the Church was to civilize the Indian into the European culture. In doing so, Indian culture and independence was destroyed, lending itself to genocide.
 3) The next objective of the Church was the Christianization of Indians. The means of doing this was the building of missions from the tip of Argentina to California. As a result, Indians became slaves to the mission and the building of the Roman Catholic Churches.
-4) The Church imgx»sed a paternalistic structure on society as well as within the Church. The purpose was to bring order to society, from the top down, and with men at the top.
+4) The Church imposed a paternalistic structure on society as well as within the Church. The purpose was to bring order to society, from the top down, and with men at the top.
 5) The Roman Catholic Church and the Jesuit Order became very wealthy. With wealth comes power and with power comes corruption. The Church and the Jesuit Order not only challenged the King of Spain (Charles III) but the authority of the As a result, the Ling had little choice and in 1767 the Jesuits were expelled from New Spain. The King regained control.
 
 >[!quote]
@@ -140,16 +140,17 @@ Books:
 Bolivar believed in liberty, equality, and social justice in a democratic system, but he never practiced them.
 
 Some of his non-democratic ideas were:
-a) Executive branch of government has to have most of the power (President)
-b) Republican form of government
-c) Didn't believe people should vote
-d) Constitutional Assembly should have limited powers
-e) An appointed president for life
-f) The president could appoint his own successor
-g) There would be a body of censors who were to safeguard civil rights and principle of the constitution (but actually restricted civil rights)
+- Executive branch of government has to have most of the power (President)
+- Republican form of government
+- Didn't believe people should vote
+- Constitutional Assembly should have limited powers
+- An appointed president for life
+- The president could appoint his own successor
+- There would be a body of censors who were to safeguard civil rights and principle of the constitution (but actually restricted civil rights)
 As Bolivar stated: "all the strength of centralized government, all the stability of monarchical regimes"
 
 3. Bolivar admired the British Of government but with a president, not a king. He wanted a government that was somewhere between a democratic republic and a dictatorship. Bolivar became President of Gran Columbia (Venezuela, Columbia, Panama, and Ecuador), but he never allowed for democratic rule and his country fell apart along with the idea of Pan-Americanism or a United States of South America.
+
 4. Bolivar was faced with constant rebellions and defiance within Gran Columbia. Bolivar met this challenge as a dictator with abuse of civil rights and the use of the army to crush his opposition and also his dreams for a new country.
 
 >[!note] Legacy
@@ -170,4 +171,8 @@ They included:
 
 ### Independence in Brazil
 
-In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was given Brazil. Brazil was first discovered by accident by Pedro Alvares Cabril in 1501. The name Brazil comes from a redwood tree. On Jan. I, 1502, Amerigo Vespucci sailed into a bay with a river running into it. Vespucci established the city of Rio de Janeiro (River of January). The history Of Brazil that followed was similar to the Spanish experience. The Tupis Indians were conquered, died Off Of diseases, and were assimilated with the slave Its empire was very similar to the Spanish in how it was constructed, but it was not as well run as the Spanish Empire. Beginning in the middle of the 16th century, Portugal established an empire based on slavery, the church and mercantilist policies. By the beginning of the 19th century, the conflict was the mazambos and the Portuguese born reinois. The difference with Portugal and Spain was that Portugal's monarch was not the problem. Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the independence movement. The king recognized this change in society, left Brazil, and turned the government over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct. 1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States. Brazil was then officially called the Republic of the United States of Brazil. The 20th century has not been that kind to Brazil as its government constantly changed between republics, military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship under Getulio Vargas. There has been a series of republics and dictatorships ever since.
+In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was given Brazil. Brazil was first discovered by accident by Pedro Alvares Cabril in 1501. The name Brazil comes from a redwood tree. On Jan. I, 1502, Amerigo Vespucci sailed into a bay with a river running into it. Vespucci established the city of Rio de Janeiro (River of January). The history Of Brazil that followed was similar to the Spanish experience. The Tupis Indians were conquered, died Off Of diseases, and were assimilated with the slave Its empire was very similar to the Spanish in how it was constructed, but it was not as well run as the Spanish Empire. Beginning in the middle of the 16th century, Portugal established an empire based on slavery, the church and mercantilist policies. By the beginning of the 19th century, the conflict was the mazambos and the Portuguese born reinois. The difference with Portugal and Spain was that Portugal's monarch was not the problem. 
+
+Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the independence movement. The king recognized this change in society, left Brazil, and turned the government over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct. 1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States. Brazil was then officially called the Republic of the United States of Brazil. 
+
+The 20th century has not been that kind to Brazil as its government constantly changed between republics, military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship under Getulio Vargas. There has been a series of republics and dictatorships ever since.
