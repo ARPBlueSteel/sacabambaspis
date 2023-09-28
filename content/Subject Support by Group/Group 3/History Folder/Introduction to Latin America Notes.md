@@ -176,3 +176,36 @@ In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was give
 Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the independence movement. The king recognized this change in society, left Brazil, and turned the government over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct. 1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States. Brazil was then officially called the Republic of the United States of Brazil. 
 
 The 20th century has not been that kind to Brazil as its government constantly changed between republics, military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship under Getulio Vargas. There has been a series of republics and dictatorships ever since.
+
+end of the spanish empire
+
+by the turn of hte 19 century the spansih empire was coming to an end. 
+the problems of running an empire of running an empire of 16 million people over 300 years was tearing the empire apart.
+so the empire needed inform
+the world was in a transition peariod
+- end of nepoleon
+- end of merhcnaitlism
+- emgency of the british empire
+- world has changed but spain had not kept up
+
+1911 spanish american war marked end of spanish empire and beginning of american empire.
+
+in latin america the real date of independence with the **independence movement of 1820** and the end of the spanish influence.
+
+however, the decline of hte spanish empire was graduel begging with the age of enlightenment.
+
+part 2
+
+what was wrong with the spanish emprie
+- after 300 years of spanish rule in the new world the spanish empire was decitigrating
+- spain needed its empire more that the empire needed Spain
+
+Problems of the spanish empire
+1. the colonial administration/ council of indies was both corrupt and inefficient in running the empire
+2. spain's economy languished in misery because of its economic problems. spain was undergoing a transformation from mercantilism to free trade .despite the reconstruction of the economy of charcles the iii, the ecomny did not improve and spain became poor.
+3. there was a problem with the spanish monarch or the lack of one, due to the defeat of spain by nepoleon there were foergin monarchs. spain needed a strong spanish king to keep the empire together, but spain did not get one
+4. the roman catholic church was too closely linked ot the state and become too wealthy and powerful, meddling in the affairs of the state
+5. In new Spain, the conflict was between the creoles and the Peninsulars, which created class problems and administrative problems.
+6. the spanish taxation system lead to Rebellion and protest from Argentina to venizaual. it was the principle of the taxation system and not hte amount.
+7. the influence of the enlightenment had an impact on the leaders of new spain such as simon bolivar and martin. the american and french revolutions provided an example of revolution.
+8. the Spanish Navy was defeated by the British beginning with cape st Vincent in 1797 and ending with lord nelson's victory at Trafalgar in 1805. it impossible to have an empire without a navy there
