@@ -68,9 +68,14 @@ New Spain. The Spanish Empire was to last for the next 300 years and make Spain 
 European country. The Empire however, had to be administered with a line of command from the top down.
 The foundations of the Empire would be based on Feudalism, Patriarchal Society, and Paternalistic Society
 
-**Feudalism** = Social, economic and political organization of Medieval Europe. The economic structure was that of serfs (peasants) who worked the land while lords and kings provided military protection and government.
-**Patriarchal Society** = the social organization of society when the male, the King is at the top of society and a country is controlled from the top down. In New Spain, the patriarchal families controlled most countries
-**Paternalistic Society** = Society is organized with the male on top or "Father Knows Best" (King)
+**Feudalism**:
+Social, economic and political organization of Medieval Europe. The economic structure was that of serfs (peasants) who worked the land while lords and kings provided military protection and government.
+
+**Patriarchal Society**:
+the social organization of society when the male, the King is at the top of society and a country is controlled from the top down. In New Spain, the patriarchal families controlled most countries
+
+**Paternalistic Society**:
+Society is organized with the male on top or "Father Knows Best" (King)
 
 ### Characteristics of the Spanish Empire
 
@@ -85,16 +90,10 @@ Government was considered to be paternalistic and patriarchal and not very democ
 The Roman Catholic Church was not very tolerant of other religions and was an arm of the Empire.
 The social order was very feudal, with a social caste/class system that often was at odds with one another and produced conflict within the Empire.
 ### Social Classes:
-1. Peninsulars - were white Spaniards born in Spain and controlled the colonial governments in New
-Spain. They consisted of Viceroys, Governors, Governor General, Captain-Generals and major
-bureaucrats. Some were also wealthy businessmen, landowners and Dons of patriarchal families.
-2. Creoles — were white Spaniards, born in the new world and consisted of merchants, land owners, mine
-owners and landed aristocracy. Many Creoles were forbidden to hold high government or military
-positions.
+1. Peninsular - were white Spaniards born in Spain and controlled the colonial governments in New Spain. They consisted of Viceroys, Governors, Governor General, Captain-Generals and major bureaucrats. Some were also wealthy businessmen, landowners and Dons of patriarchal families.
+2. Creoles — were white Spaniards, born in the new world and consisted of merchants, land owners, mine owners and landed aristocracy. Many Creoles were forbidden to hold high government or military positions.
 3. Mestizos—were people of mixed races, being the offspring of Creoles, Europeans and Indians.
-4. Indians and Blacks -formed the last social class. Slaves/Blacks were at the bottom of the social system.
-Over time, the Indians and Blacks assimilated together with the Mestizos. Together, they are the
-Mestizo class and the people of Latin America today.
+4. Indians and Blacks -formed the last social class. Slaves/Blacks were at the bottom of the social system. Over time, the Indians and Blacks assimilated together with the Mestizos. Together, they are the Mestizo class and the people of Latin America today.
 ## Part 4
 ### The Roman Catholic Church
 
@@ -171,11 +170,7 @@ They included:
 
 ### Independence in Brazil
 
-In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was given Brazil. Brazil was first discovered by accident by Pedro Alvares Cabril in 1501. The name Brazil comes from a redwood tree. On Jan. I, 1502, Amerigo Vespucci sailed into a bay with a river running into it. Vespucci established the city of Rio de Janeiro (River of January). The history Of Brazil that followed was similar to the Spanish experience. The Tupis Indians were conquered, died Off Of diseases, and were assimilated with the slave Its empire was very similar to the Spanish in how it was constructed, but it was not as well run as the Spanish Empire. Beginning in the middle of the 16th century, Portugal established an empire based on slavery, the church and mercantilist policies. By the beginning of the 19th century, the conflict was the mazambos and the Portuguese born reinois. The difference with Portugal and Spain was that Portugal's monarch was not the problem. 
-
-Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the independence movement. The king recognized this change in society, left Brazil, and turned the government over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct. 1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States. Brazil was then officially called the Republic of the United States of Brazil. 
-
-The 20th century has not been that kind to Brazil as its government constantly changed between republics, military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship under Getulio Vargas. There has been a series of republics and dictatorships ever since.
+In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was given Brazil. Brazil was first discovered by accident by Pedro Alvares Cabril in 1501. The name Brazil comes from a redwood tree. On Jan. I, 1502, Amerigo Vespucci sailed into a bay with a river running into it. Vespucci established the city of Rio de Janeiro (River of January). The history Of Brazil that followed was similar to the Spanish experience. The Tupis Indians were conquered, died Off Of diseases, and were assimilated with the slave Its empire was very similar to the Spanish in how it was constructed, but it was not as well run as the Spanish Empire. Beginning in the middle of the 16th century, Portugal established an empire based on slavery, the church and mercantilist policies. By the beginning of the 19th century, the conflict was the mazambos and the Portuguese born reinois. The difference with Portugal and Spain was that Portugal's monarch was not the problem. Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the independence movement. The king recognized this change in society, left Brazil, and turned the government over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct. 1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States. Brazil was then officially called the Republic of the United States of Brazil. The 20th century has not been that kind to Brazil as its government constantly changed between republics, military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship under Getulio Vargas. There has been a series of republics and dictatorships ever since.
 
 end of the spanish empire
 
@@ -198,14 +193,14 @@ part 2
 
 what was wrong with the spanish emprie
 - after 300 years of spanish rule in the new world the spanish empire was decitigrating
-- spain needed its empire more that the empire needed Spain
+- spain needed its empirem ore that the empire needed spain
 
 Problems of the spanish empire
 1. the colonial administration/ council of indies was both corrupt and inefficient in running the empire
 2. spain's economy languished in misery because of its economic problems. spain was undergoing a transformation from mercantilism to free trade .despite the reconstruction of the economy of charcles the iii, the ecomny did not improve and spain became poor.
 3. there was a problem with the spanish monarch or the lack of one, due to the defeat of spain by nepoleon there were foergin monarchs. spain needed a strong spanish king to keep the empire together, but spain did not get one
 4. the roman catholic church was too closely linked ot the state and become too wealthy and powerful, meddling in the affairs of the state
-5. In new Spain, the conflict was between the creoles and the Peninsulars, which created class problems and administrative problems.
-6. the spanish taxation system lead to Rebellion and protest from Argentina to venizaual. it was the principle of the taxation system and not hte amount.
-7. the influence of the enlightenment had an impact on the leaders of new spain such as simon bolivar and martin. the american and french revolutions provided an example of revolution.
-8. the Spanish Navy was defeated by the British beginning with cape st Vincent in 1797 and ending with lord nelson's victory at Trafalgar in 1805. it impossible to have an empire without a navy there
+5. in new spain, the conflict was between the creoles and the peninsulars, which created class problems and administrative problems.
+6. the spanish taxation system lead to rebelion and protest from argentina to venizaual. it was the principle of the taxation system and not hte amount.
+7. the influence of hte enlightenment had an impact on the leaders of new spain such as simon bolivar and martin. the american and french revolutions provided an example of revolution.
+8. the spanish navy was defeated by the british beginning with cape st Vincent in 1797 and ending with lord nelson;s victory at Trafalgar in 1805. it impossible to have an empire without a navy there

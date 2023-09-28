@@ -49,26 +49,22 @@ Businesses should prioritize ethical behaviour as their business objective and t
 Business Objectives
 
 Strategic
-
 - Medium-long term
 - Goal of growth & profit maximizing
 - Improve market standing, image & reputation, market share
 - Decided by the senior leadership team or board of directors
 
 Tactical
-
 - Short term, day-to-day
 - Affect a section of the org.
 - Goal of survival or maximizing sales revenue
 - Used by the workforce to work towards achieving the strategic objectives of the organization.
 
 Corporate Social Responsibility (CSR)
-
 - Conscientious consideration of ethical and environmental practise related to business activity
 - Acting morally toward all of its various stakeholder groups and the well-being of local communities and society as a whole
 
 Determining Factors for Acting in a Socially Responsible Way:
-
 - Involvement, influence, and power of different stakeholder groups
 - Corporate culture and firm's attitude
 - Social expectation and awareness; experience
@@ -81,7 +77,6 @@ Question 3.3 \[p. 47]
 d) Discuss whether acting ethically ultimately provides McDonald's and Burger King with competitive advantages.
 
 Internal Factors
-
 - Corporate Culture
 - Type & Size of Organization
 - Experience
@@ -91,7 +86,6 @@ Internal Factors
 - Operational Practices
 
 External Factors
-
 - Social
 - Technological
 - Economic
@@ -101,7 +95,6 @@ External Factors
 - Ethical
 
 SWOT Analysis
-
 S - Strengths
 W - Weaknesses
 O - Opportunities
@@ -643,21 +636,14 @@ Six Change Approaches
 5. Manipulation & Co-Option
 6. Explicit & Implicit Coercion
 
-#1 - Mean - sum of all items divided by number of items in data sets
-
-#2 - Mode - the number that occurs more frequently than any other value in a data set
-
-#3 - Median - the middle number in a data set when all items are ranked in numerical order
-
-#4 - Bar Charts - visual representations of categorical data in which the height & width of the bars is used to show the values of the quantities measured
-
-#5 - Pie Charts - visual statistical tool used to divide data sets into segments to illustrate numerical proportions
-
-#6 - Infographic - type of visual tool used ot show information using a combination of texts, images, and graphics
-
-#7 - Quartiles - the technique of dividing a data set (such as ranking sales revenue of one store against the industry or IB examination results from a particular IB School) into four proportionate parts
-
-#8 - Standard Deviation - the average distance from the mean value of all points in a data set (how small or large the spread of results)
+1 - Mean - sum of all items divided by number of items in data sets
+2 - Mode - the number that occurs more frequently than any other value in a data set
+3 - Median - the middle number in a data set when all items are ranked in numerical order
+4 - Bar Charts - visual representations of categorical data in which the height & width of the bars is used to show the values of the quantities measured
+5 - Pie Charts - visual statistical tool used to divide data sets into segments to illustrate numerical proportions
+6 - Infographic - type of visual tool used ot show information using a combination of texts, images, and graphics
+7 - Quartiles - the technique of dividing a data set (such as ranking sales revenue of one store against the industry or IB examination results from a particular IB School) into four proportionate parts
+8 - Standard Deviation - the average distance from the mean value of all points in a data set (how small or large the spread of results)
 
 # Unit 2.3 - Leadership and Management
 
@@ -972,7 +958,6 @@ Inputs
 - effort
 
 Outputs
-
 - remuneration
 - recognition
 - rank 
@@ -981,15 +966,12 @@ Outputs
 Equity impacts level of motivation on three levels:
 
 Equity Norm
-
 - Workers expect an equitable remuneration for their contributions
 
 Social Comparison
-
 - Comparisons of inputs and outputs with their peers
 
 Cognitive Distortion
-
 - Being undercompensated demotivates workers
 - They may alter input (put in less effort) and/or (negotiate for a pay raise)
 
@@ -1033,17 +1015,11 @@ Methods of Recruitment
 External Recruitment 
 
 1. Newspaper/Internet advertising
-
 2. Specialist trade publication
-
 3. Commercial employment agencies
-
 4. Job centres
-
 5. University career fairs
-
 6. Employee referrals
-
 7. Headhunting (senior level) <3
 
 Internal Recruitment vs. External Recruitment
@@ -1783,7 +1759,7 @@ Payback Period Example
 
 One Two Vi Corporation is planning to invest in new machinery requiring intial investkent of $105 million. THe project is expected to generate $25 million per year for 7 years. Calculate the payback period of the project.
 
-Payback Period Example #2
+Payback Period Example \#2
 
 Suppose the construction of a new sports compelx that costs $1 million is expected to generate the following net cash flows over the first four years:
 
