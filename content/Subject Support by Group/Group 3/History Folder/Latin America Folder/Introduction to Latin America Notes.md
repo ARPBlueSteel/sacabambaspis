@@ -121,6 +121,33 @@ Effects:
 ### Conclusion
 In New Spain, the Roman Catholic Church became a very important and omnipotent institution in the process of building an empire and as an integral part of the empire.
 
+## End of the Spanish empire
+
+by the turn of the 19th century the Spanish empire was coming to an end. 
+The problems of running an empire of running an empire of 16 million people over 300 years was tearing the empire apart, so the empire needed inform.
+the world was in a transition period
+- end of napoleons
+- end of mercantilism
+- emergence of the British empire
+- world has changed but Spain had not kept up
+
+In 1911 the Spanish American war marked end of Spanish empire and beginning of the American Empire. In Latin America the real date of independence with the **independence movement of 1820** and the end of the Spanish influence. However, the decline of the Spanish empire was gradual beginning with the age of enlightenment.
+
+### What Was wrong with the Spanish empire
+- after 300 years of Spanish rule in the new world the Spanish empire was disintegrate 
+- Spain needed its empire more that the empire needed Spain
+
+Problems of the Spanish empire
+1. the colonial administration/ council of indies was both corrupt and inefficient in running the empire
+2. Spain's economy languished in misery because of its economic problems. Spain was undergoing a transformation from mercantilism to free trade .despite the reconstruction of the economy of Charles the iii, the economy did not improve and Spain became poor.
+3. there was a problem with the Spanish monarch or the lack of one, due to the defeat of Spain by napoleons there were foreign monarchs. Spain needed a strong Spanish king to keep the empire together, but Spain did not get one
+4. the roman catholic church was too closely linked to the state and become too wealthy and powerful, meddling in the affairs of the state
+5. in new Spain, the conflict was between the creoles and the Peninsulars, which created class problems and administrative problems.
+6. the spanish taxation system lead to rebellions and protest from Argentina to venizaual. it was the principle of the taxation system and not hte amount.
+7. the influence of the enlightenment had an impact on the leaders of new Spain such as Simon Bolivar and martin. the American and French revolutions provided an example of revolution.
+8. the Spanish navy was defeated by the British beginning with Cape St.Vincent in 1797 and ending with lord nelson's victory at Trafalgar in 1805. it impossible to have an empire without a navy there
+
+
 ## Part 5:
 ### Bolivar
 >[!quote]
@@ -172,35 +199,3 @@ They included:
 
 In the struggle of empires, in the 1494 Treaty of Tordesillas, Portugal was given Brazil. Brazil was first discovered by accident by Pedro Alvares Cabril in 1501. The name Brazil comes from a redwood tree. On Jan. I, 1502, Amerigo Vespucci sailed into a bay with a river running into it. Vespucci established the city of Rio de Janeiro (River of January). The history Of Brazil that followed was similar to the Spanish experience. The Tupis Indians were conquered, died Off Of diseases, and were assimilated with the slave Its empire was very similar to the Spanish in how it was constructed, but it was not as well run as the Spanish Empire. Beginning in the middle of the 16th century, Portugal established an empire based on slavery, the church and mercantilist policies. By the beginning of the 19th century, the conflict was the mazambos and the Portuguese born reinois. The difference with Portugal and Spain was that Portugal's monarch was not the problem. Under their king, John VI, he modernized the country, opened it to the world and quickly adopted free trade policies. The monarchy even moved to Rio de Janeiro between 1808-1821, because of the problems with Napoleon. By 1821, the "winds of change" were coming to Latin America, meaning nationalism and the independence movement. The king recognized this change in society, left Brazil, and turned the government over to his son, Prince Pedro. It was Prince Pedro who severed the ties with Portugal. There were no wars of independence. In the following decades, Brazil came a constitutional monarchy with a king or regent. In Oct. 1822, Pedro proclaimed himself Emperor Of Brazil (Pedro 1 1822 — 1831, Pedro II 1831 — 89). Slavery was abolished in 1888. By 1889, Brazil became a republic, with a federal constitution much like the United States. Brazil was then officially called the Republic of the United States of Brazil. The 20th century has not been that kind to Brazil as its government constantly changed between republics, military dictatorships and back to republics. From 1930 — 1945 and 1951 - 1954 Brazil had a fascist dictatorship under Getulio Vargas. There has been a series of republics and dictatorships ever since.
 
-end of the spanish empire
-
-by the turn of hte 19 century the spansih empire was coming to an end. 
-the problems of running an empire of running an empire of 16 million people over 300 years was tearing the empire apart.
-so the empire needed inform
-the world was in a transition peariod
-- end of nepoleon
-- end of merhcnaitlism
-- emgency of the british empire
-- world has changed but spain had not kept up
-
-1911 spanish american war marked end of spanish empire and beginning of american empire.
-
-in latin america the real date of independence with the **independence movement of 1820** and the end of the spanish influence.
-
-however, the decline of hte spanish empire was graduel begging with the age of enlightenment.
-
-part 2
-
-what was wrong with the spanish emprie
-- after 300 years of spanish rule in the new world the spanish empire was decitigrating
-- spain needed its empirem ore that the empire needed spain
-
-Problems of the spanish empire
-1. the colonial administration/ council of indies was both corrupt and inefficient in running the empire
-2. spain's economy languished in misery because of its economic problems. spain was undergoing a transformation from mercantilism to free trade .despite the reconstruction of the economy of charcles the iii, the ecomny did not improve and spain became poor.
-3. there was a problem with the spanish monarch or the lack of one, due to the defeat of spain by nepoleon there were foergin monarchs. spain needed a strong spanish king to keep the empire together, but spain did not get one
-4. the roman catholic church was too closely linked ot the state and become too wealthy and powerful, meddling in the affairs of the state
-5. in new spain, the conflict was between the creoles and the peninsulars, which created class problems and administrative problems.
-6. the spanish taxation system lead to rebelion and protest from argentina to venizaual. it was the principle of the taxation system and not hte amount.
-7. the influence of hte enlightenment had an impact on the leaders of new spain such as simon bolivar and martin. the american and french revolutions provided an example of revolution.
-8. the spanish navy was defeated by the british beginning with cape st Vincent in 1797 and ending with lord nelson;s victory at Trafalgar in 1805. it impossible to have an empire without a navy there

@@ -2,7 +2,7 @@
 
 History is the discovery and interpretation of the human past. It is an act of both investigation and imagination that seeks to explain the ways in which people have changed over time. Historians use many kinds of evidence to revisit and reinterpret the past: not just written documents, but also oral communication and "mute" objects such as buildings and artifacts. It is essential for historians to discover and evaluate these sources, and then make historical sense out of them. History is also a self-reflective discipline, which teaches critical consciousness of its own methods and assumptions. Through study of the methods and philosophy of history, history students can learn the various ways history has been understood in human culture and compare the contemporary discipline with concepts of history in other societies and periods.
 # Why Study History?
-1. History is not a blue print for the future but it is a means of understanding the past and present. Through the study of history, we can develop a feel for the way in which society will develop in the future. History helps one to understand the immense complexity of our world and therefore, enables one to cope with the problems and possibilities ofthe present and future.
+1. History is not a blue print for the future but it is a means of understanding the past and present. Through the study of history, we can develop a feel for the way in which society will develop in the future. History helps one to understand the immense complexity of our world and therefore, enables one to cope with the problems and possibilities of the present and future.
 2. History provides us with a sense of identity. People need to develop a sense of their collective past. Events in the past have made us what we are today. In one sense history is the only thing that is real. The way in which people identify and interact with one another is by and large a consequence of history, which shapes and conditions individuals and societies whether they fully understand it or not. 3.
 3. History is a bridge to other disciplines. In order to understand the other humanities and the sciences one needs an historical overview. Writers, artists, scientists, politicians and everyday people all are conditioned by the historical milieu in which they lived. Historical knowledge is a prerequisite for fully understanding any other type of knowledge and for understanding why events happened as they did.
 4. History is the "teacher of life." History prepares us to live more humanely in the present and to meet the challenges of the future because ti provides us with understanding of the human condition. History is a means of disseminating and comprehending the wisdom and folly of our forbears.
@@ -17,7 +17,9 @@ How a person understands the past is partially determined by one's background, u
 >\- John Dewey
 
 
+
 >[!quote]
 >"HISTORIOGRAPHY cannot be a science. It can only be an industry, an art, and a philosophy - an industry by ferreting out the facts, an art by establishing a meaningful order in the chaos of materials, a philosophy by seeking perspective and enlightenment. The present is the past rolled up for action, and the past is the present unrolled for understanding". 
 >
->\ - Will and Ariel Durant
+>\- Will and Ariel Durant
+
