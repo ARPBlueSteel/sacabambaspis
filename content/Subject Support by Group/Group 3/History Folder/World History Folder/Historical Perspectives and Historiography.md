@@ -3,11 +3,11 @@ History is essentially the study of change. Core to the analysis and understandi
 "Students should be aware of how history is used or sometimes abused to retell and promote a grand narrative of history, a narrowly focused national mythology that ignores other viewpoints or perspectives, or to elevate a single perspective to a position of predominance. Thus, students are encouraged to challenge and critique multiple perspectives of the past, and to compare them and corroborate them with historical evidence. Students should recognize that for every event recorded in the past, there may be many contrasting or differing perspectives. Using primary-source accounts and historians' interpretations, students may also investigate and compare how people, including specific groups such as minorities or women, may have experienced events differently in the past. In this way there are particularly strong links between exploring multiple perspectives and the development of international-mindedness" (IB History Guide 2017, p. 95).
 
 # A. PRIMARY SOURCE:
-A primary source is historical evidence created during the time under study.
+>A primary source is historical evidence created during the time under study.
 
 This evidence may take the form of texts such as documents, editorials, journal articles, financial statements, diary entries, song lyrics, or novels; visuals such as pictures, cartoons, photographs, videos, or graphics; interviews whether formal or informal; and artifacts such as household items, cars, statues, clothing, toys, tools or leisure items. Therefore, history may also incorporate the evidence from and study of other disciplines such as ethnography, anthropology, sociology, or archeology.
 # B. SECONDARY SOURCE:
-A secondary source is created after and usually in reflection of the time under study.
+>A secondary source is created after and usually in reflection of the time under study.
 
 This evidence is often from an academic viewpoint via historical investigation of primary sources and analysis of subsequent historical inquiry. However, this could also be a gray area whereby a contemporary interpretation of a primary source during the time under study could also be considered a secondary source due to the "second-hand" nature of the
 information.
