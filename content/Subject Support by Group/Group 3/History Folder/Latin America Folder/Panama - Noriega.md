@@ -4,4 +4,10 @@ Manuel Antonio Morena Noriega was born of humble beginnings in Panama in 1940. A
 
 In 1962, Noriega began his military ascent to power when he was commissioned in the National Guard. His climb continued when in 1970-71 he became chief of the Panamanian Intelligence. At this juncture the abuse of power began, Lieutenant Col. Noriega began garnering profits from drug deals. Noriega was stopped by Col. Omar Torrijos who had taken him under his wing.
 
-Noriega was a long time ally of the United States. Recruited by the CIA as early as 1960, he acted as an important information link on both Cuban and other Latin American activities which were deemed contrary to US interests. He rose in the ranks and eventually became head of the military dictatorship that utilized an "elected" puppet government to maintain its power. Through government and military control, he was also vital to US policy makers in illegally funding and supplying the Nicaraguan Contras after allocations by the US Congress were slashed 
+Noriega was a long time ally of the United States. Recruited by the CIA as early as 1960, he acted as an important information link on both Cuban and other Latin American activities which were deemed contrary to US interests. He rose in the ranks and eventually became head of the military dictatorship that utilized an "elected" puppet government to maintain its power. Through government and military control, he was also vital to US policy makers in illegally funding and supplying the Nicaraguan Contras after allocations by the US Congress were slashed in 1984.
+
+From 1982-1984 General Noriega and his cohorts allegedly allowed Panama to become the trans-shipment point for hundreds of kilos of cocaine. In addition to colluding with the various drug cartels for shipments, money laundering operations and bribery were commonplace.
+
+Torrijos died in 1981, setting the stage for three years of before elctions were held in 1984. By then the all-powerful Panamanian Defense Forces, headed by Noriega, backed Nicolas Artito Barletta, a former World Bank vice-president who had close ties to the United States.
+
+#unfinished 
