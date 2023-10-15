@@ -1,0 +1,7 @@
+# General Manuel Noriega
+
+Manuel Antonio Morena Noriega was born of humble beginnings in Panama in 1940. At that time there was no \[illegible\]cation that "Tony" Noriega would achieve dictatorship over the country of his birth. He became a dictator with such a corrupt power base and rule that he would come to trial on charges of masterminding what has been called "the enterprise". The enterprise was defined as one of the larges international cocaine smuggling conspiracies in history.
+
+In 1962, Noriega began his military ascent to power when he was commissioned in the National Guard. His climb continued when in 1970-71 he became chief of the Panamanian Intelligence. At this juncture the abuse of power began, Lieutenant Col. Noriega began garnering profits from drug deals. Noriega was stopped by Col. Omar Torrijos who had taken him under his wing.
+
+Noriega was a long time ally of the United States. Recruited by the CIA as early as 1960, he acted as an important information link on both Cuban and other Latin American activities which were deemed contrary to US interests. He rose in the ranks and eventually became head of the military dictatorship that utilized an "elected" puppet government to maintain its power. Through government and military control, he was also vital to US policy makers in illegally funding and supplying the Nicaraguan Contras after allocations by the US Congress were slashed 
