@@ -5,6 +5,7 @@
 # History 12 HL
 ## History of Americas
 - [[Introduction to Latin America]]
+- [[Panama]]
 
 ## World History
 - [[Historiography 19th-20th Century, WW1, Paris Peace Conference]]
