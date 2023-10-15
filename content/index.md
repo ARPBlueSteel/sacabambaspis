@@ -1,12 +1,10 @@
 ---
 title: Project Sacabambaspis
 ---
-![[Pasted image 20230919184056.png]]
-
 # Welcome Aboard Project Sacabambaspis 
 
 [[About]]
-
+[[Sacabambaspis Shrine]]
 [[Contributing]]
 ## Repository
 [[Subject Support by Group]] 
