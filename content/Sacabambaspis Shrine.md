@@ -17,3 +17,15 @@
 > Sacabambaspis, with scales of might, In the ancient seas, you shimmered so bright, We sing your praises, forevermore, A testament to life's eternal shore.
 > 
 > With armored grace, you swam the deep, In history's ledger, your story we keep, Oh, Sacabambaspis, so noble and true, In the epic of life, we revere you.
+
+Biological species concept is limited. 
+
+Many organisms do not reproduce sexually—species must be defined differently. Scientists study the genomes of these organisms instead. 
+
+Information about reproductive behavior and genomes of extinct organisms are often unknown—classification of these organisms remains difficult. Paleontologists study the physical similarities and differences between fossils.
+
+Parts of a population can become geographically separated. After living in and becoming adapted to different environments (by natural selection), the separated populations evolve into different **species (speciation)**.
+
+>[!tip] Watch: What makes a species?
+>https://www.youtube.com/watch?v=dnfaiJJnzdE
+
