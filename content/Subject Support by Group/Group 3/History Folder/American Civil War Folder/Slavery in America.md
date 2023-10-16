@@ -1,3 +1,4 @@
+#unfinished 
 
 >slaves were present in many cultures, not just in America. However, American Slavery was unique in that it had a racial/ethnic element.
 # Slavery Introduction

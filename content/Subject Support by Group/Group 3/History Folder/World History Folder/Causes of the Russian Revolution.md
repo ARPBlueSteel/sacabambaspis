@@ -17,11 +17,11 @@
 
 # causes of the Russian Revolution
 
-## Social:
+## Social
 
 - Class divisions: The aristocracy had all the wealth & peasants (80% population) were destitute
 - In 1861, serf were emancipated but their situation did not improve due to the growing population, illiteracy, lack of knowledge, and lack of land reforms
-## Economic:
+## Economic
 
 - Industrialization came late to Russia with excessive exploitation (more than W. Europe)
 - The result was a small urban proletariat ready for revolutionary ideas and movement
@@ -44,4 +44,52 @@
 
 # Marxism/Communism
 
-1. 1848 Karl Marx and Friedrich Engels wrote the Communist Manifesto and in 1867 Marx also wrote Das Kapital in 1867
+1848 Karl Marx and Friedrich Engels wrote the Communist Manifesto and in 1867 Marx also wrote Das Kapital in 1867
+
+>[!quote] Marx:
+>
+>"From each according to his abilities; to each according to his needs..."
+>
+>"The communists...openly declare that their ends can be obtained only by the forcible overthrow of all existing social conditions. Let the ruling classes tremble at a communist revolution. The proletariats have nothing to lose but their chains; they have a world to win. Workers of the world unite!"
+
+Marx believed that the revolution had to develop in an industrial country, either Britain or Germany
+
+Basic Tenets of Marxism:
+- man is good by nature
+- economic relations determine all human relations
+- exploitation is an inherent feature of capitalism
+- private property is evil
+- capitalism produces two classes of people
+- only revolution can rid society of of capitalism and establish the dictatorship of the proletariat
+- classlessness & statelessness follow only after revolution & a transition period
+
+# Development of the Communist Party in Russia
+
+1. **The Social Democratic Workmen's Party** began in 1898 with Gregory Plekhanov as its leader. At the party's 1903 congress the party split. Plekhanov controlled the minority of Mensheviks and Vladmir Ilyitch Ulyanov or Lenin controlled the majority or Bolsheviks.
+2. **Bolsheviks: Led by Lenin**: Lenin believed that because of the impact of imperialism on Russia, Russia could advance to socialism without going through the capitalist stage. This meant that the Communists could seize power immediately after a bourgeois revolution (fast change). Revolution would be the work of a small group of professional revolutionaries and this revolutionary party would work in secrecy. Therefore, only "trusted" or "True" Marxists could join the party.
+3. **Mensheviks: Led by Plekhanov**: Plekhanov believed in "traditional" Marxism which meant that socialism in Russia could develop only AFTER advancing through the stage of capitalism. Mensheviks supported a bourgeois revolution and believed socialism in Russia would be a gradual change following the full development of capitalism in Russia. They also believed that the party should not work in private and be open to membership.
+
+>[!note] Political Groups
+>
+>**Social Democrats:**
+>- Bolsheviks
+>- Mensheviks
+>
+>**Socialist Revolutionaries (SR):**
+>- left wing party that was revivals of the Social Democrats
+>- Peasants should own the land = much support
+>
+>**Constitutional Democrats or Cadets (Liberals):**
+>- wealthy business & professionals that wanted an end to Czar's rule
+
+# Conflict in Russia Empire 1905
+
+The 1905 Revolution was due to: 
+- Labour unrest/strikes-hunger
+- Russo-Japanese War, Russia losing badly (1904-05)
+	- Nicholas II had hoped to unite the country with an easy war against Japan.
+
+## Czar's Winter Palace Bloody Sunday: Sunday, January 22, 1905
+
+- About 100,000 demonstrators tried to present a petition of grievances to the Czar at his Winter Palace.
+- The guards opened fire and Cossacks 
