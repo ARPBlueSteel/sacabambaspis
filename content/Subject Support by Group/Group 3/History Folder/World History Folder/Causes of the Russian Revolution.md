@@ -92,4 +92,17 @@ The 1905 Revolution was due to:
 ## Czar's Winter Palace Bloody Sunday: Sunday, January 22, 1905
 
 - About 100,000 demonstrators tried to present a petition of grievances to the Czar at his Winter Palace.
-- The guards opened fire and Cossacks 
+- The guards opened fire and Cossacks charged charged the demonstrators and killed hundreds
+- Bloody Sunday triggered naval mutinies, strikes, & the call for the end of the autocracy
+	- For the most part, the armed forces remained loyal to the Czar
+- Soviets: Workers from from the Socialist groups had formed councils or soviets in all major cities to support their goal of change; however, the soviets played a very small role in the 1905 revolution but would be key in 1917
+
+## October Manifesto
+
+In 1905, the Czar met demands of reformers by granting civil rights & creating a **Duma** (elected Parliament with about 500 seats).
+
+This saved his autocracy and these reforms split the opposition to the Czar with the Liberals (i.e. Cadets) being satisfied but the Social Democrats and Social Revolutionaries were not and therefore, boycotted the election for the Duma
+
+>[!summary] Results of the 1905 Revolution
+>- Russia was supposed to be a **Constitutional Monarchy** with new Duma but the Duma did not have any real power nor was there promised constitution.
+>- Lenin Learned the Lesson: "to stage a successful rebellion, the people must be armed."
