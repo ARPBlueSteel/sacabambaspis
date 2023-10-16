@@ -1,7 +1,7 @@
 # Topics
 
 ## Historiography
-- [[What is history and why study it]]
+- [[What is history and why study it|What is history and why study it?]]
 - [[Historical Perspectives and Historiography]]
 - [[Theories of History]]
 ### Turn of the 20th (1900) and 21th (2000) Centuries
