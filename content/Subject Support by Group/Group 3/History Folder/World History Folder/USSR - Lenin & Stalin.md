@@ -72,3 +72,5 @@ Zinoviev
 >[!note]
 >Lenin dies in 1924
 # Joseph Stalin 
+
+[[The Five Year Plans]]
