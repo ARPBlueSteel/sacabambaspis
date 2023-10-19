@@ -9,4 +9,4 @@ private/
 .replit
 replit.nix
 auto-deploy-sacabambaspis.bat
-.obsidian
+.obsidian/
