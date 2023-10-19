@@ -9,10 +9,10 @@ Unethical Business Practices
 - Exploitation of Suppliers
 
 Common Business Objectives
-i. Growth
-ii. profit
-iii. Protecting Shareholder Value
-iv. Ethical Objectives
+	i. Growth
+	ii. profit
+	iii. Protecting Shareholder Value
+	iv. Ethical Objectives
 
 Exploitation of the Suppliers
 - Child Labour

@@ -4,9 +4,10 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
+.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
 auto-deploy-sacabambaspis.bat
-.obsidian
+
