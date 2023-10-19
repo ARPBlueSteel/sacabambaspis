@@ -1909,15 +1909,10 @@ Internal Assessment
 A research project that requires students to apply business management tools and theories (content) to a real organization issue or problem (context), using a conceptual lens (concept).
 
 1. Select a real business issue/problem that relates to any part of the syllabus
-
 2. Use one of the four key concepts
-
 3. Write research question - forward or backward looking
-
 4. use primary and/or secondary research - 3-5 source documents
-
 5. Length of paper has max. 1,800 words
-
 6. Fully reference 3-5 source documents in bibliography
 
 Preliminary Approval & Research - end of Year 1 & Summer
@@ -1969,7 +1964,13 @@ The 4 P's
 
 Describe a recent purchase and the buying process behind it
 
-Product -> 4 P's -> Decision
+```mermaid
+flowchart LR
+Product-->|4 P's|Decision
+
+
+```
+
 
 Marketing Skills
 
@@ -1989,28 +1990,24 @@ Product Orientation - This approach focuses on selling products that they make, 
 Ability to Hike Price, More Control over Operations, High Failure Rate
 
 Commercial Marketing
-
 - to meet the needs and wants of customers in a profitable way
 - ethics play a small role
 
 Social Marketing
-
 - designed to bring about social cahnge using concepts from commercial marketing
 
-Market Share
-
-(Firm's Sales Revenue / Industry's Sales Revenue) x 100
+>[!summary] Market Share
+>$$\frac{\text{firm's sale revenue}}{\text{industry's sale revenue}}\times 100$$
 
 Market Concentration
 
 Top 5 smartphone companies has 69% of the market
 
-Market Growth
-
-(Current Market Size - Original Market Size ($) / Original Market Size ($)) x 100
+>[!summary] Market Growth
+>
+>$$\frac{\text{Current Market Size - Original Market Size(\$)}}{\text{Original Market Size(\$)}}\times 100$$
 
 Market Leadership - the position of a business having the largest market share in a given market for a particular good or service
-
 - Sports Apparel
 - E-Commerce
 - Aircraft Manufacturing
@@ -2018,7 +2015,6 @@ Market Leadership - the position of a business having the largest market share i
 - Fast Food Chain
 
 Advantages:
-
 - Premium prices
 - Lower production costs
 - Longer product life cycles
