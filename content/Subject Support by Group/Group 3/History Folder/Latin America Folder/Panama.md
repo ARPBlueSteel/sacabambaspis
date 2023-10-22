@@ -1,6 +1,7 @@
 # Notes
 [[Teacher Notes - Panama]]
 [[Panama - Noriega]]
+[[Panama Canal]]
 # Timelist
 ---
 1502
@@ -35,13 +36,13 @@
 - Created the Panama Canal Zone
 
 1908-1914
-- Canal was built
+- [[Panama Canal|Canal]] was built
 
 1968
 - Military coup by General Herrera
 
 1977
-- Carter-Herrera Treaties Aug. 10, 1977 (USA & Panama signed two treaties to transfer the Canal to Panama with full ownership by 2000)
+- [[Panama Canal#^3dfbeb|Carter-Herrera Treaties Aug. 10, 1977]] (USA & Panama signed two treaties to transfer the Canal to Panama with full ownership by 2000)
 
 1983
 - General [[Panama - Noriega| M. Moriega]] takes over in a military coup
@@ -58,8 +59,10 @@
 2007
 - In Sept. Noriega completed his prison sentence in the United States
 
+2010
+- In April, Noriega was extradited to France on murder and money laundering charges
+- He was sentenced to 7 years in prison
 
-
-
-
-#unfinished
+2011
+- On Sept. 23, 2011, Noriega was granted a conditional release to be extradited to Panama for murder and money laundering charges there as well
+- On October 1, 2011, Noriega was extradited to Panama to serve a 20 year prison sentence

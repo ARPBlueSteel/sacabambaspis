@@ -5,6 +5,7 @@
 # History 12 HL
 ## History of Americas
 - [[Introduction to Latin America]]
+- [[TA - Emergence of a Modern State and Military Governments]]
 - [[Panama]]
 
 ## World History

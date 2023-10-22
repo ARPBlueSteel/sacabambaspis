@@ -10,14 +10,14 @@
 - Stalin "Socialism in One Country"
 
 - Stalin sides with Bukharin
-- Trtsky dismissed from Central Committee 1926
+- Trotsky dismissed from Central Committee 1926
 - 1927 Kamenev & Zinoviev dismissed 
 - 1928 Trotsky exiled
 - 1929 Bukharin dismissed 
 - 1936 Kamenev & Zinoviev "Show Trials"
 - 1936-1938 Trosky's trial for treason in absentia
 - 1938 Bukharin's trials 
-- 1940 Trotsky Assassinatied in Mexico 1940
+- 1940 Trotsky Assassinated in Mexico 1940
 
 ## Stalin's policies
 
