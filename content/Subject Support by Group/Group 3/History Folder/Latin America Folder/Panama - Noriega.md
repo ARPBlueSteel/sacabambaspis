@@ -16,6 +16,7 @@
 >
 >The removal of Noriega came in December 20
 
+#unfinished 
 # General Manuel Noriega
 
 Manuel Antonio Morena Noriega was born of humble beginnings in Panama in 1940. At that time there was no indication that "Tony" Noriega would achieve dictatorship over the country of his birth. He became a dictator with such a corrupt power base and rule that he would come to trial on charges of masterminding what has been called "the enterprise". The enterprise was defined as one of the larges international cocaine smuggling conspiracies in history.

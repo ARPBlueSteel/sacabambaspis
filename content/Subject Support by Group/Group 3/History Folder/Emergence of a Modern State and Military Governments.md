@@ -1,6 +1,6 @@
 [[What is a Revolution]]
 
-[[Emergence of the Modern State - The new Nations]]
+[[Emergence of the Modern State - The New Nations]]
 
 [[Emergence of the Modern State - Economic Problems]]
 
