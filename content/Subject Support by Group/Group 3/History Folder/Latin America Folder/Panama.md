@@ -1,7 +1,7 @@
 # Notes
-[[Teacher Notes - Panama]]
-[[Panama - Noriega]]
-[[Panama Canal]]
+- [[Teacher Notes - Panama]]
+- [[Panama - Noriega]]
+- [[Panama Canal]]
 # Timelist
 ---
 1502
