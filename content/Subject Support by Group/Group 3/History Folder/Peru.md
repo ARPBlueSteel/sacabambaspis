@@ -43,8 +43,8 @@ Timelist
 - New national constitution 
 
 1980-1985
-- General Belaunde Terry re-elected
-- Turmoil and revolts of the Shinning Path and the Tupac Amaru Revolutionary Movement (MRTA)
+- Belaunde Terry re-elected
+- Turmoil and revolts of the [[Shinning Path]] and the [[Military Dictatorship - Peru#Tupac Amaru (Burns pp. 71-72, 309 and folder)|Tupac Amaru Revolutionary Movement (MRTA)]]
 
 1985
 - Alan Garcia leader of APRA Party was elected

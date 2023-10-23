@@ -56,4 +56,7 @@ The full name of the MRTA is **Movimiento Revolutionario Tupac Amaru**.
 The first time the Tupac Amaru emerged was in 1780, being an uprising of the poor against the Spanish colonial system system. This Indian rebellion was led by José Gabriel Condorcanqui Noguera. The idea behind the movement. was to make the native Indian culture and language (called Quechua) more available in schools and society, restoring pride in being Inca. The rebellion was
 crushed by the Spanish.
 
-The most recent version of the Tupac Amaru emerged as a Marxist urban guerrilla movement
+The most recent version of the Tupac Amaru emerged as a Marxist urban guerrilla movement, using terrorism to accomplish their goals. The MRTA spoke for the poor, as the poor are the victims of the neo-liberal economy. The MRTA wanted to undo societal injustice and create a government of the poor. By 1990 the Tupac Amaru was nearly on the verge of collapse as their support dwindled. With the election of Alberto Fujimori, some of his
+reforms were designed to attract the poor. These included providing electricity & water supply to poor residential districts and building new schools.
+
+As the rural poor came to support President Fujimori, the MRTA reorganized themselves as urban terrorists with Fujimori as the enemy. In December, 1996, the Tupac Amaru occupied the Japanese Embassy, The purpose was to speak on behalf of the poorest segments of society, publize their existence to the Peruvian People, and capture worldwide attention.
