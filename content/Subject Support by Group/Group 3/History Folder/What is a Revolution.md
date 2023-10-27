@@ -21,7 +21,7 @@
 
 British. French. [[The Two Russian Revolutions|Russian]]. Mexican and American
 
-# Revoltuon
+# Revolution
 
 Revolution is usually with some form of political and violent overthrow of a government, but not all revolutions are violent. Revolutions usually only take place in unstable societies but the more successful revolutions have taken place in stable societies, Revolutions usually have economic causes but it is politics that dominates a revolution. Revolutions can have an ideology or an ideology is often used to justify the revolution. Revolutions usually leave an impression of an overthrow of a government. but some revolutions take place before or after the take over of the government. Revolutions usually involve the military. but it is the military that usually destroys a revolution. Some revolutions take place for the benefit of the masses but once the revolution is over, the masses seldom benefit, Revolutions are usually fought for democracy but democracy deteriorates into a dictatorship. Some revolutions are more myths than facts and some revolutions are more facts than myths.
 
