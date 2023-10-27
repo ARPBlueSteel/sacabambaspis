@@ -1,12 +1,12 @@
 - [[TN Peru]]
 - [[TN Peru's Leaders Belaunde Terry & Velasco Alvarado]]
 - [[Military Dictatorship - Peru]]
+- [[Military Dictatorship - General Juan Velasco Alvarado in Peru]]
+- [[Peru - Democracy and Retreat]]
 - [[Article - Fujimori offically steps down as leader of Peru]]
 - [[Article - Fujimori's popularity led to attack by guerrillas]]
-
-Timelist
+# Timelist
 ---
-
 1535
 - Pizarro finally conquered the Inca and founded Lima (capital)
 
