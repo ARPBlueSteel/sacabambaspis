@@ -1,4 +1,3 @@
-
 # Introduction
 
 The Traditional governments of Peru were either republics or [[Military Dictatorships and Government|military governments]], like that of [[TN Peru's Leaders Belaunde Terry & Velasco Alvarado|General Velasco]].

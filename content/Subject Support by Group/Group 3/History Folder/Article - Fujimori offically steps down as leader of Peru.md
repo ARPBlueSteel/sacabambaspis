@@ -1,5 +1,9 @@
 > Nov 21 2000, Unknown Newspaper. Source: Associate Press
 
+>[!summary]
+>
+>Fujimori 
+
 # Fujimori officially steps down as leader of Peru
 
 LIMA — Peruvian President Alberto Fujimori, who brought leftist insurgencies and economic chaos to heel but ran roughshod over Peruvian democracy, cut short an unprecedented third term and resigned Monday. 
@@ -10,7 +14,7 @@ That move averted a political showdown with the opposition- controlled Congress 
 
 Fujimori, 62, formalized his resignation hour earlier with a letter sent from Japan, his ancestral homeland. 
 
-The bespectacled d son of Japanese immigrants, Fujimori soared into office 10 ye s ago in a stunning election upset. But with his popularity eroded by a corruption scandal he was unable to control, Fujimori sent the resignation letter, acknowledging his "errors." Fujimori's resignation initially caught the country's leadership off guard and angered allies who complained he should have stepped down at home. 
+The bespectacled d son of Japanese immigrants, Fujimori soared into office 10 years ago in a stunning election upset. But with his popularity eroded by a corruption scandal he was unable to control, Fujimori sent the resignation letter, acknowledging his "errors." Fujimori's resignation initially caught the country's leadership off guard and angered allies who complained he should have stepped down at home. 
 
 "I submit to you, Mr. President of Congress, my formal resignation as president of the republic," Fujimori wrote in the two-page letter. 
 

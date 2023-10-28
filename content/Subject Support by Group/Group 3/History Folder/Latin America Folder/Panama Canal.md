@@ -8,4 +8,6 @@ In the Americas Carter's policies were focused on human rights and the Panama Ca
 
 In September 1977 Jimmy Carter and Panamanian President Omar Torrijos signed two treaties that return e d the land and the canal to Panama . According to the terms of one treaty, Panama took control of the Panama Canal on 31 December 1999 , with joint protection, management and defence in the interim period. The second treaty emphasized the neutrality of the canal in times of peace and war, requiring that it remain open to all vessels of all countries. ^3dfbeb
 
-#unfinished 
+> ## Panama's leader Noriega
+> 
+> Pana
