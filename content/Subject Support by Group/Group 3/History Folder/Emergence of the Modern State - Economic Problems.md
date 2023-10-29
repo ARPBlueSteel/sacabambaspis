@@ -15,7 +15,7 @@ Although independence was achieved by 1824 and most countries adopted the politi
 6. Legal changes in the labour code
 7. Creation of a large educated labour force
 
-## Summary of [[Economic Problems]]
+## Summary of [[Latin America - Economic Problems]]
 
 1. Latin America depends on the export model, or cash crop, for revenue. This places the emphasis on export, manufactured goods, and importation of food. Land is used for cash crops (i.e. coffee and work for wages). They do not/cannot grow food to feed themselves. 
 2. The economic "trickle down" theory, where wealth trickles down from the rich to the poor through wages, has not worked. Latin America has produced two nations with an unequal distribution of wealth: the very rich and the very poor. 
