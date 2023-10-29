@@ -45,48 +45,14 @@ At approximately one in the morning on December 20, 1989, under the operation na
 
 On July 10, 1992 the former Panamanian strongman/dictator was sentence to 40 years in prison on 8 counts of drug trafficking, racketeering and money laundering. He is presently awaiting an appeal of his sentence. 
 
-# 
+# Noriega's military dictatorship in Panama
 
-Peruvian President Fernando Belaunde Terry once remarked "The paradox ofa
-military dictatorship is that they standfor both rprssion and abuse of basic human Tights, but at the same
-time, can be the epitome Oforder, stabiåty and ar ,cfomist." From 1983 - 1989, Noriega's extreme
-violation of human rights far outweighed his reforms and stability in Panama. In 1983,
-General Manuel Antonio Noriega (b. 1934 - ) emerged as the caudillo of Panama. Ihe death
-of former leader Omar Tomjos led to Noriega's eventual tyranny. Formerly a deputy of the
-National Guard (Panamanian military), Noriega promoted himself to the r•uik of General
-and renamed his army the 'Panama Defense Forces' (PDF). Thus began six years of
-institutionalized military dictorship. In August 1983, Noriega assumed absolute control of
-the military. Eager to seize power, Noriega elected Nicolas Barletta as an official presidential
-candidate for the upcoming May 1984 elections. During the ballot-tallying process, Noriega's
-PDF interrupted counting by opening fire. 3 hours later, 3 people lay dead and 81 civilians
-wounded. Noriega's puppet president Barletta won by 1 713 votes. Thus marked the surt
-of Noriega's abuse of human rights and political repression.
-Noriega openly dealt with illegal drug and arms trafficking as well as money
-laundering and the issue of false identification. He earned approximately $10 million US per
-month from money laundering alone. Noriega was also infamous for his widespread cocaine
-and arms trafficking, which greatly enriched both the dictator and his associates.
-In September 1985, a political dissident, Hugh Spadafora, was brutally tortured and
-decapitated. Spadafora had previously accused Noriega of drug trafficking and money
-laundering. mie PDF refused to open an investigation of the death, leading Spadafora's
-family to appeal to the US Congress, who later proclaimed Noriega guilty. When the US
-tried to intervene in Panamanian affairs, Noriega ordered the mob attack of the US embassy
-June 30, 1987). Other attempts to publicize the corruption and anti-democratic character of
-Noriega's military resulted in violence and death. Black Friday' occurred on July 10, 1987,
-when political demonstrators were beaten and tortured.
-Usually, military governments are cost-efficient and help civilians in the areas of
-finance and economy. However, in Panama's case, Noriega's military dictatorship severely
-weakened the economy. By June 1988, economic activity was at 55% of its normal
-productivity. Unemployment reached a record 12.3%, retail sales Off 700/0, industrial
-production off 60%, construction off 95% and agricultural output off 30%. In a show of
-personalism, Noriega refused to relinquish power, even when faced with manifest
-opposition.
-Due to Noriega's blatant neglect of human rights and democracy, as well as his illegal
-dealings, the US invaded Panama on December 20, 1989. 'Operation: Just Cause', ordered
-by President George Bush, destroyed war potential Of the PDF and captured Noriega,
-who was flown to Miami to face charges of narcotics trafficking, money laundering and the
-murder of Hugh Spadafora. By applying Terry's contrast to Panama, it is evident that
-Noriega's government ruthlessly violated human rights by controlling elections, arbitrarily
-arresung and torturing political dissidents and participated actively in illegal felonies, such as
-arrns and narcotics trafficking and money laundering. However, Noriega failed to
-significantly create order and stability in Panama, as unemployment rates and debt soared,
-agricultural growth plummeted, and political tension With the United States mounted.
+Peruvian President [[TN Peru's Leaders Belaunde Terry & Velasco Alvarado|Fernando Belaunde Terry]] once remarked **"The paradox of a military, dictatorship is that they stand for both repression and abuse of basic human rights, but at the same time, can be the epitome of order, stability and are reformist."** From 1983 - 1989, Noriega's extreme violation of human rights Ear outweighed his reforms and stability in Panama. In 1983, General Manuel Antonio Noriega (b. 1934 -) emerged as the caudillo of Panama. The death of former leader Omar Torrijos led to Noriega's eventual tyranny. Formerly a deputy of the National Guard (Panamanian military), Noriega promoted himself to the rank of General and renamed his army the 'Panama Defense Forces' (PDF). Thus began six years of institutionalized military dictatorship. In August 1983, Noriega assumed absolute control of the military. Eager to seize power, Noriega elected Nicolas Barletta as an official presidential candidate for the upcoming May 1984 elections. During the ballot-tallying process, Noriega's PDF interrupted counting by opening fire. 3 hours later, 3 people lay dead and 81 civilians wounded. Noriega's puppet president Barletta won by 1713 votes. Thus marked the start of Noriega's abuse of human rights and political repression. 
+
+Noriega openly dealt with illegal drug and arms trafficking, as well as money laundering and the issue of false identification. He earned approximately $10 million US per month from money laundering alone. Noriega was also infamous for his widespread cocaine and arms trafficking, which greatly enriched both the dictator and his associates. 
+
+In September 1985, a political dissident, Hugh Spadafora, was brutally tortured and decapitated. Spadafora had previously accused Noriega of drug trafficking and money laundering. The PDF refused to open an investigation of the death, leading Spadafora's family to appeal to the US Congress, who later proclaimed Noriega guilty. When the US tried to intervene in Panamanian affairs, Noriega ordered the mob attack of the US embassy (June 30, 1987). Other attempts to publicize the corruption and anti-democratic character of Noriega's military resulted in violence and death. 'Black Friday' occurred on July 10, 1987, when political demonstrators were beaten and tortured. 
+
+Usually, military governments are cost-efficient and help civilians in the areas of finance and economy. However, in Panama's case, **Noriega's military dictatorship severely weakened the economy.** By June 1988, economic activity was at 55% of its normal productivity. Unemployment reached a record 12.3%, retail sales off 70%, industrial production off 60%, construction off 95% and agricultural output off 30%. In a show of extreme personalism, Noriega refused to relinquish power, even when faced with manifest opposition. 
+
+Due to Noriega's blatant neglect of human rights and democracy, as well as his illegal dealings, the US invaded Panama on December 20, 1989. 'Operation: Just Cause', ordered by President George Bush, destroyed the war potential of the PDF and captured Noriega, who was flown to Miami to face charges of narcotics trafficking, money laundering and the murder of Hugh Spadafora. By applying Terry's contrast to Panama, it is evident that Noriega's government ruthlessly violated human rights by controlling elections, arbitrarily arresting and torturing political dissidents and participated actively in illegal felonies, such as arms and narcotics trafficking and money laundering. **However, Noriega failed to significantly create order and stability in Panama, as unemployment rates and debt soared, agricultural growth plummeted, and political tension with the United States mounted.** 
