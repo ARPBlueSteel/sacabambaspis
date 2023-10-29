@@ -6,10 +6,6 @@
 ## History of Americas
 - [[Introduction to Latin America]]
 - [[Emergence of a Modern State and Military Governments]]
-- [[Panama]]
-- [[Brazil]]
-- [[Argentina]]
-- [[Peru]]
 
 ## World History
 - [[Historiography 19th-20th Century, WW1, Paris Peace Conference]]
