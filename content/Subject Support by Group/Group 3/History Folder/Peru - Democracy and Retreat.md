@@ -4,6 +4,8 @@ The burden became a crisis and, in 1975, the military replaced Velasco with Gene
 
 >[!note] Profile: Abimael Guzman (1934-)
 >
+>![[Pasted image 20231028185921.png]]
+>
 >Abimael Guzmån is a Peruvian Marxist, and founder of the splinter group of the Peruvian Communist Party known as the **Sendero Luminoso**, or "**Shining Path**," based on Maoist thought and theories of class struggle. Initially the group won favor in mountain villages tired of corruption and military brutality. But Guzmån's own brand of authoritarian brutality lead to whole villages found guilty of collaboration with the military being slaughtered. He eventually alienated the peasants, who ultimately allied with the military to turn him in to the government of Fujimori in 1992. He is currently sewing a life-sentence in Callao, Perü. The violent group he led killed about 30,000 people, mainly from the Ayachuco region.
 
 A new constitution modeled on the 1933 version was proposed. Elections took place in 1980 and [[TN Peru's Leaders Belaunde Terry & Velasco Alvarado|Fernando Belaunde Terry]] won the election with a significant majority and formed a coalition government. Belaunde was a democrat and politician and made a politician's set of promises: **progress and improved living standards through public works** while **reducing state involvement in the economy** and **encouraging private investment.** Once elected, the new president proposed ==banning labor actions such as strikes==, ==phasing out economic assistance== for food and fuel, and ==cutting public works projects==. A general strike was the result. 
