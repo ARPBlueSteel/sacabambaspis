@@ -6,6 +6,8 @@
 
 # General [[Military Dictatorship - General Juan Velasco Alvarado in Peru|Juan Velasco Alvarado ]]
 
+^1de06b
+
 ![[Pasted image 20231028190148.png|200]]
 
-In October 1968, under the leadership of General Velasco, the military deposed of President Fernando Belaunde Terry. Terry had not kept his campaign promises from 1963. General Velasco had several major accomplishments: land reform (land expropriation and investment into the rural infrastructure led to a modest increase in agricultural production), larger role of the State in the economy including the nationalization of major resources (petroleum, copper and sugar), and challenging the power of the traditional elites. Although he had accomplishments, General Velasco did not completely restructure the nation and he did not receive popular support. Therefore, General Velasco was still overthrown in a bloodless military coup in September 1975. Most of his reforms withered away under the following government.
+In October 1968, under the leadership of General Velasco, the military deposed of President Fernando Belaunde Terry. Terry had not kept his campaign promises from 1963. General Velasco had several major accomplishments: land reform (land expropriation and investment into the rural infrastructure led to a modest increase in agricultural production), larger role of the State in the economy including the nationalization of major resources (petroleum, copper and sugar), and challenging the power of the traditional elites. Although he had accomplishments, General Velasco did not completely restructure the nation and he did not receive popular support. Therefore, General Velasco was still overthrown in a bloodless military coup in September 1975. Most of his reforms withered away under the following government. ^3d7eb7
