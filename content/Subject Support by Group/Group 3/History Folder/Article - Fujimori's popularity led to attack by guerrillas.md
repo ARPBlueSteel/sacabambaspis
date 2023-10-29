@@ -6,11 +6,11 @@ At the heart of this incident lies a Western-structured neo-liberalist economy t
 
 This incident should be viewed as an attempt by the guerrillas to speak on behalf of the poorest segments of society, the people who are often the victims of this neo-liberalist economy.
 
-The Tupac Amaru Revolutionary Movement (MRTA) was formed in 1983 with the declared aim of setting up a government that had the interests of the poor at heart.
+The [[Military Dictatorship - Peru#^853d56|Tupac Amaru Revolutionary Movement (MRTA)]] was formed in 1983 with the declared aim of setting up a government that had the interests of the poor at heart.
 
 Among the poor and needy, the group is fondly known as the Robin Hood of Peru.
 
-The group has a huge popular following among the impoverished segments of Peruvian society because the money it steals from companies or received as ransom in kidnapping of rich people is always passed on to the poor.
+The group has a huge popular following among the impoverished segments of Peruvian society because **the money it steals from companies or received as ransom in kidnapping of rich people is always passed on to the poor**.
 
 Since the Spanish conquest in the 16th century, the country has had a social structure in which a small number of rich, white people dominate the rest of society: poor, native Peruvians.
 

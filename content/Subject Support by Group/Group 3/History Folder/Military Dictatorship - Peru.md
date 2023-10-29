@@ -50,6 +50,8 @@ Society had to be a society of "great harmony", On page 327, use the quotes to d
 
 # Tupac Amaru (Burns pp. 71-72, 309 and folder)
 
+^853d56
+
 The full name of the MRTA is **Movimiento Revolutionario Tupac Amaru**.
 
 The first time the Tupac Amaru emerged was in 1780, being an uprising of the poor against the Spanish colonial system system. This Indian rebellion was led by **José Gabriel Condorcanqui Noguera**. The idea behind the movement. was to make the native Indian culture and language (called Quechua) more available in schools and society, restoring pride in being Inca. The rebellion was crushed by the Spanish.

@@ -14,11 +14,11 @@ That move averted a political showdown with the opposition- controlled Congress 
 
 Fujimori, 62, formalized his resignation hour earlier with a letter sent from Japan, his ancestral homeland. 
 
-The bespectacled d son of Japanese immigrants, Fujimori soared into office 10 years ago in a stunning election upset. But with his popularity eroded by a corruption scandal he was unable to control, Fujimori sent the resignation letter, acknowledging his "errors." Fujimori's resignation initially caught the country's leadership off guard and angered allies who complained he should have stepped down at home. 
+The bespectacled son of Japanese immigrants, Fujimori soared into office 10 years ago in a stunning election upset. But with his popularity eroded by a corruption scandal he was unable to control, Fujimori sent the resignation letter, acknowledging his "errors." Fujimori's resignation initially caught the country's leadership off guard and angered allies who complained he should have stepped down at home. 
 
 "I submit to you, Mr. President of Congress, my formal resignation as president of the republic," Fujimori wrote in the two-page letter. 
 
-The opposition wrested control of Congress away from Fujimori last week for the first time since his own 1992 "auto-coup," in which he seized unprecedented powers. He closed an opposition-controlled Congress, drafted a new constitution and took on special powers he said were needed to battle Marxist insurgents. 
+The opposition wrested control of Congress away from Fujimori last week for the first time since **his own 1992 "auto-coup," in which he seized unprecedented powers. He closed an opposition-controlled Congress, drafted a new constitution and took on special powers he said were needed to battle Marxist insurgents.** 
 
 In Japan, officials said Fujimori had not requested political asylum. 
 
