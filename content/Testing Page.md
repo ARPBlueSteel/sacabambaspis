@@ -52,8 +52,6 @@ $math + - \times \div$
 $$displaymode\;math + - \times \div$$
 
 
-![[Recording 20230104181009.webm]]
-
 Footnotes [^1]
 Big Footnote[^bignote]
 
