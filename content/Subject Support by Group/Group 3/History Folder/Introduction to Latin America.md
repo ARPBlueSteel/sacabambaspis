@@ -26,4 +26,5 @@ Introduction to Latin America Folder — all pages
 # Notes & Duotang
 
 [[Introduction to Latin America Notes]]
+
 [[Introduction to Latin America Duotang]]
