@@ -4,7 +4,7 @@
 
 >**Military Coup d'etat**: When the military comes out the barracks and overthrows the civilian government, establishing a right wing military government with a General as a President. (i.e. Chile)
 
-> **Military Governments**: are right wing governments that are controlled by a country's military, which stemmed from the growth and popularity of the [[Rise and Rule of Caudillos in Latin America|caudillos]] of the 19th Century.
+> **Military Governments**: are right wing governments that are controlled by a country's military, which stemmed from the growth and popularity of the [[Summary - Rise and Rule of Caudillos in Latin America|caudillos]] of the 19th Century.
 
 # General Characteristics:
 
@@ -46,7 +46,7 @@
 
 # Caudillos
 
-The term "[[Rise and Rule of Caudillos in Latin America|caudillos]]" means **strong leader**
+The term "[[Summary - Rise and Rule of Caudillos in Latin America|caudillos]]" means **strong leader**
 
 Characteristics:
 1. They fought for or stood for independence
