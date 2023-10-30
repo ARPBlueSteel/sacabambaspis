@@ -62,4 +62,7 @@
 - [[What is a Revolution]]
 - [[8 Stages of Revolution]]
 - [[Latin America - Economic Problems]]
-- 
+
+# Philip's Summary Notes
+
+- [[Summary - 8 Stages of Revolution|Summary - 8 Stages of Revolution]]
