@@ -3,8 +3,8 @@
 - as of the early 1980s, there are considerable variations between countries and six identifiable patterns of military behaviour
 	1. In Brazil and Uruguay, there is still a military—civilian coalition with the military as the dominant partner controlling the presidency.
 	2. In Bolivia and Argentina, the military is firmly established but military governments are highly unstable.
-	3. In Chile, Panama, and Paraguay, there is an established personalist rule by a military dictator, with stability dependent on the personality of the dictator.
-	4. In Peru and Ecuador, there are alternating military and civilian governments, as coups lead to elections leading back to coups.
+	3. In Chile, [[Panama]], and Paraguay, there is an established personalist rule by a military dictator, with stability dependent on the personality of the dictator.
+	4. In [[Peru]] and Ecuador, there are alternating military and civilian governments, as coups lead to elections leading back to coups.
 		- This is the usual pattern in Latin America, but now tends towards long-term military rule.
 	5. In much of Central America there is a weaker form of the above pattern, with no genuine elections and military rule more focused on personalism than military institution.
 	6. In Mexico, Venezuela, Colombia, Costa Rica, Cuba, and Nicaragua, civilians rule, however the military remains a significant force with institutional privileges, budget access, and independent authority.
@@ -117,6 +117,6 @@
 
 ### Conclusion
 - military governments are generally durable but not immortal
-	- due to ability to make change to remain in power
+	- due to ability to make [[Military Models For Change|change]] to remain in power
 - military disunity or economic failure can undermine military regimes, but can be handled by changes internally
 - previous perspective was that civilian rule was normal; however in the 1970s, this was no longer the case

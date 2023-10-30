@@ -26,6 +26,8 @@ In general Burns concludes that, [[Military Dictatorships and Government|militar
 
 # A Shining Path to the Future
 
+^e003d6
+
 Left wing urban guerrillas have always been a problem in countries like Peru. Although the leadership of these guerrillas movements rests with Marxist intellectuals, their bases of support is with the Peruvian experiences and Incan past. The **Shining Path** or **Sendero Luminoso** was a splinter party of the Peruvian Communist Party in 1870, organized by [[Peru - Democracy and Retreat#^a1a82d|Abimael Guzman]]. It would be the Indian leader, **Jose Carlos Mariategui (1895-1930)** who said about revolution: revolution is the shining path of liberation.
 
 The Shining Path or SPM denounced these major ideas:

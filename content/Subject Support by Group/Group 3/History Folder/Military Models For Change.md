@@ -16,7 +16,7 @@ By and large, the military has been associated with the **maintenance of the sta
 4. land reform
 5. nationalized foreign business
 
-Both Brazil and Peru seemed to offer the best examples of contrasting philosophies of change through the military. From 1964-85, Brazil had a growth rate of **10%** and was the worthy model of change. Some the other reforms of the military included:
+Both [[Brazil - Vargas|Brazil]] and [[Military Dictatorship - Peru|Peru]] seemed to offer the best examples of contrasting philosophies of change through the military. From 1964-85, Brazil had a growth rate of **10%** and was the worthy model of change. Some the other reforms of the military included:
 
 1. Strengthened capitalistic institutions & highly centralized power, depoliticization of people
 2. Approved foreign investments
@@ -48,8 +48,6 @@ By September, 1975, General Velasco was replaced in a military coup because of h
 
 Gradually the military lost their commitment to reform and in 1980, Fernando Belaunde Terry returned to power.
 
-In returning to power, Fernando Belaunde Terry was faced with huge economic powers 
+In returning to power, Fernando Belaunde Terry was faced with huge economic problems. Free electiosn and democratic government could not find any solutions. The national debt had reached 16 billion and the country was bankrupt. As a result, opposition came from a new guerrilla movement called the [[Military Dictatorship - Peru#^e003d6|Shining Path]] or **Sendero Luminoso**.
 
-
-
-
+The military governments in [[Brazil - Vargas|Brazil]] and [[Military Dictatorship - Peru|Peru]] on the surface seems 
