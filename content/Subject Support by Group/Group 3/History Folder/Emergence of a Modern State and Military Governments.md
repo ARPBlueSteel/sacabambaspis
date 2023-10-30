@@ -9,6 +9,6 @@
 - [[Brazil - Vargas]]
 - [[Peru]]
 - [[Conclusion of Military Governments]]
-
 ## Other Materials
 - [[Military Dictatorships and Revolution]]
+- [[Military Models For Change]]
