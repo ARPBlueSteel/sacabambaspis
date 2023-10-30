@@ -1,0 +1,1 @@
+- most Latin American countries had constitutions modeled after those of the US or France
