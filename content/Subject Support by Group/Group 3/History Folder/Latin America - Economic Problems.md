@@ -14,6 +14,9 @@
 >	- **Rapid Industrialization**
 >	- **Increasing trade with one another**
 >	- A third possible answer is **communism**
+
+[[Summary - 48. Latin America. Economic Problems]]
+
 ## The people 
 
 South of the U.S.A. are the twenty-two nations which form Latin America. Most of the republics have a great deal in common. All were once the colonies of European powers such as Spain and Portugal. Most Latin Americans speak either Spanish or Portuguese and nearly all are Roman Catholics. Because of these common factors, there has been in the West a tendency to regard the different peoples and countries of Latin America as alike and to emphasize their similarities.
