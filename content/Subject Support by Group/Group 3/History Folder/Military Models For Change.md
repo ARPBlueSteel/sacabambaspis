@@ -39,4 +39,17 @@ The result was an increase yearly of 1.6% in the GNP from 1969-1974.
 
 In areas other than the economy, the military emphasized Peru's Indian past, made **Quechua** the official language, and taught Indians history in the schools. These reforms were made in relative freedom without having to arrest the political opposition. The military, however, disbanded **former principal political parties** and did not have free democratic elections until 1980.
 
+By September, 1975, General Velasco was replaced in a military coup because of his radical reforms. His accomplishments were:
+
+1. Land reform
+2. Reduction of the power of the traditional oligarchy
+3. Nationalization of major resources
+4. Expanded economic role of the state
+
+Gradually the military lost their commitment to reform and in 1980, Fernando Belaunde Terry returned to power.
+
+In returning to power, Fernando Belaunde Terry was faced with huge economic powers 
+
+
+
 
