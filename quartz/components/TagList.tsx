@@ -28,16 +28,11 @@ function TagList({ fileData, displayClass }: QuartzComponentProps) {
 TagList.css = `
 .tags {
   list-style: none;
-  display: flex;
+  display:flex;
+  flex-wrap: wrap;
   padding-left: 0;
   gap: 0.4rem;
   margin: 1rem 0;
-  flex-wrap: wrap;
-  justify-self: end;
-}
-
-.section-li > .section > .tags {
-  justify-content: flex-end;
 }
   
 .tags > li {
@@ -47,7 +42,7 @@ TagList.css = `
   overflow-wrap: normal;
 }
 
-a.internal.tag-link {
+a.tag-link {
   border-radius: 8px;
   background-color: var(--highlight);
   padding: 0.2rem 0.4rem;

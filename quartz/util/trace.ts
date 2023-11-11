@@ -4,7 +4,7 @@ import { isMainThread } from "workerpool"
 
 const rootFile = /.*at file:/
 export function trace(msg: string, err: Error) {
-  let stack = err.stack ?? ""
+  const stack = err.stack
 
   const lines: string[] = []
 
@@ -12,10 +12,14 @@ export function trace(msg: string, err: Error) {
   lines.push(
     "\n" +
       chalk.bgRed.black.bold(" ERROR ") +
-      "\n\n" +
+      "\n" +
       chalk.red(` ${msg}`) +
       (err.message.length > 0 ? `: ${err.message}` : ""),
   )
+
+  if (!stack) {
+    return
+  }
 
   let reachedEndOfLegibleTrace = false
   for (const line of stack.split("\n").slice(1)) {
