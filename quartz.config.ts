@@ -62,6 +62,7 @@ const config: QuartzConfig = {
       Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
+      Plugin.HardLineBreaks(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
