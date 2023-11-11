@@ -121,3 +121,64 @@ USA recognized Taiwan/Chiang as official government of China & USA wouldn't let 
 
 Oct.1 1949 Mao proclaimed
 	**People's Republic of China**
+
+# Mao Tse-Tung Consolidation of Power: 1949-1954
+
+### Mao's China: 1949-1976
+
+1. Mao's communist Rule in China:
+	People's Republic of China Oct.1, 1949
+	- Mandate from Heaven: old tradition where new rulers gained right to rule simply because they had seized power
+	- Democratic Centralism: obedience to leaders, central control
+
+### Conference Sept. 1949
+
+- non-communist parties & others who opposed KMT/GMD brought under communist leadership
+- temporary constitution in a multi-party "people's democratic dictatorship" (communist dominance)
+- non-reactionaries granted a vote in the elected National People's Congress but choice of candidates limited
+
+## Non-people with NO political rights
+
+5 **Black** categeries:
+- reactionary elements
+- feudal elements
+- lackeys of imperialism
+- bureaucratic capitalists
+- enemies of the people
+
+> Included: landlords, business owners & prominent ex-KMT
+
+Exception: **National Bourgeoisie** & **Petit Bourgeoisie** given civil rights because skill & expertise needed in early years.
+
+## 1954 formal Constitution
+
+- China = single-party state
+- Mao = Chairman of National People's Congress (head of government)
+- 2 Vice-chairmen & council of ministers led by a PM (Chou Enlai PM 1949-1976)
+
+## Population Organization
+
+- Everyone organized into groups each led by a local party cadres 
+
+shared groups comments by reporting up chain of command to central committees - politburo in Peking/Beijing -> "educate" group on policies -> **Cadres**
+
+> Maoist ideology = peasants, soldiers, workers could influence official decisions
+
+## Mass Mobilization Campaigns
+
+1. Suppression of counter-revolutionaries began March 1950-1951: People with links to the KMT/GMD, criminal gangs or religious groups
+2. Suspicion of foreigners: west (USA b/c Korea)
+3. Three antis campaign 1951
+	Against corruption, waste & obstruction (struggle session, humiliation, group pressure)
+4. Five Antis Campaign 1952
+	- Against theft, bribery, cheating government contracts, economic espionage, tax evasion (employers = self-criticisms & "thought reform", fines, labour camps, property confiscation)
+	- Confession = pay dues & return to work (unlike landlord executed in Agrarian  Reform)
+	- ~ 2-3 million suicides due to humiliation
+
+## June 1950 Agrarian Land Reform Passed
+
+> Land was taken from landowners & supposedly redistributed peacefully Chinese peasants "denounced " landowners who went before the Peoples' Tribunal this man was probably executed (about 5 million were killed)
+
+## The first Five Year Plan; 1953
+
+
