@@ -27,7 +27,6 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
           css: [
             // base css
             "https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css",
-            "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/mhchem.min.js"
           ],
           js: [
             {
@@ -35,9 +34,6 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
               src: "https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js",
               loadTime: "afterDOMReady",
               contentType: "external",
-              src: "https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/mhchem.min.js"
-              loadTime: "afterDOMReady"
-              contentType: "external"
             },
           ],
         }
