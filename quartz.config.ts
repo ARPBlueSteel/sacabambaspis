@@ -54,6 +54,7 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Latex({ renderEngine: "mathjax" }),
+      Plugin.HardLineBreaks(),
       Plugin.Description(),
     ],
     filters: [Plugin.RemoveDrafts()],
