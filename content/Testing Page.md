@@ -51,6 +51,7 @@ Normal
 $math + - \times \div$
 $$displaymode\;math + - \times \div$$
 
+$\ce{C2O2}$
 
 Footnotes [^1]
 Big Footnote[^bignote]
