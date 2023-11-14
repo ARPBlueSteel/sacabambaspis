@@ -32,17 +32,25 @@ Table 3.1 - The advantages and limitations of having ethical objectives and prac
 
 Advantages
 
-Improved corporate image - Acting ethically and in a socially responsible way can help to enhance the corporate imnage and reputation of a business. Conversely, the media wil report unethical business behaviour which could seriously damage the firm's corporate image.
-Increased customer loyalty - Customers are more likely to be loyal to a business that does not act immorally. For example, The Body Shop has established a large customer base worldwide based on its ethical policy of not testing its products on animals.
-Cost cutting - Ethical behaviour can help to cut certain costs, e.g. being environmentally friendly can reduce the amount of (excess) packaging. Ethical objectives and strategies can help the firm to avoid litigation costs (expenses associated with legal action taken against a business) that might otherwise arise from unethical and irresponsible activities.
-Improved staff morale and motivation - Ethical behaviour can help a business to attract and retain highly motivated staff. People are more likely to be proud of the firm they work for if it acts ethically and within the law. This also helps to improve productiviy and employee loyalty.
+Improved corporate image 
+	- Acting ethically and in a socially responsible way can help to enhance the corporate image and reputation of a business. Conversely, the media will report unethical business behaviour which could seriously damage the firm's corporate image.
+Increased customer loyalty 
+	- Customers are more likely to be loyal to a business that does not act immorally. For example, The Body Shop has established a large customer base worldwide based on its ethical policy of not testing its products on animals.
+Cost cutting 
+	- Ethical behaviour can help to cut certain costs, e.g. being environmentally friendly can reduce the amount of (excess) packaging. Ethical objectives and strategies can help the firm to avoid litigation costs (expenses associated with legal action taken against a business) that might otherwise arise from unethical and irresponsible activities.
+Improved staff morale and motivation 
+	- Ethical behaviour can help a business to attract and retain highly motivated staff. People are more likely to be proud of the firm they work for if it acts ethically and within the law. This also helps to improve productivity and employee loyalty.
 
 Limitations
 
-Compliance costs - The costs of being socially responsible are potentially very high. For example, producing organic agricultural products is far more expensive than growing and harvesting genetically modified crops due to the additioanl time and oney involved.
-Lower profits - If compliance costs cannot be passed onto consumers in the form of higher prices, the firm's profitabiliy is likely to fail. An ethical dilemma for the business exists when ethical decision-making involves adopting a less profitable course of action.
-Stakeholder conflict - Not all stakeholers are keen on the firm adopting ethical objectives such as profit maximization. Speculative shareholders and investors may be more interested in short-term profits than the firm's long-term ethical stance. So, managers may be pressurised into pursuing other goals.
-The subjective nature of business ethics - Views about what is considered right or wrong depend on the beliefs and principles held by individuals and societies. Legislation cna help to provide guidelines about what is socially acceptable, but even these are somewhat subjective in nature.
+Compliance costs 
+	- The costs of being socially responsible are potentially very high. For example, producing organic agricultural products is far more expensive than growing and harvesting genetically modified crops due to the additional time and oney involved.
+Lower profits
+	- If compliance costs cannot be passed onto consumers in the form of higher prices, the firm's profitability is likely to fail. An ethical dilemma for the business exists when ethical decision-making involves adopting a less profitable course of action.
+Stakeholder conflict 
+	- Not all stakeholders are keen on the firm adopting ethical objectives such as profit maximization. Speculative shareholders and investors may be more interested in short-term profits than the firm's long-term ethical stance. So, managers may be pressurised into pursuing other goals.
+The subjective nature of business ethics
+	- Views about what is considered right or wrong depend on the beliefs and principles held by individuals and societies. Legislation cna help to provide guidelines about what is socially acceptable, but even these are somewhat subjective in nature.
 
 Businesses should prioritize ethical behaviour as their business objective and there should be very few unethical decisions made by a business. While unethical behaviour may be more effective at cutting costs, it can severely damage the reputation of your business and only really benefits in the short-term. A long-lasting and well-established business should will have very ethical behaviour.
 
@@ -106,22 +114,18 @@ A tool to help companies decide how and where to expand their business.
 Four generic growth strategies are identified.
 
 Market Penetration
-
 - Existing market, existing product or service
 - Increase sales to the existing market
 
 Market Development
-
 - New market, existing product or service
 - New customers for existing products/services
 
 Product Development
-
 - Existing market, new product or service
 - New product/service
 
 Diversification
-
 - New products/services sold in new markets
 
 BMT - STEEPLE
@@ -142,7 +146,6 @@ S - Social
 T - Technological
 
 Social & Cultural
-
 - Attitude of society
 - Education on environmental protection
 - Demographic changes
@@ -152,7 +155,6 @@ Social & Cultural
 Question 46.2
 
 Economic
-
 - Government policies
 - Attitudes and actions of foreign countries
 - Levels of business and consumr confidence in the economy
@@ -177,7 +179,6 @@ The spending power of one dollar is the goods that can be bought with that dolla
 Consumer Price Index
 
 The 8 Major Groups of the Consumer Price Index
-
 - Apparel
 - Transportation
 - Education and Communication
@@ -189,15 +190,15 @@ The 8 Major Groups of the Consumer Price Index
 
 What Causes Inflation?
 
-Inflation - The persistent tendency for prices to rise
-
+Inflation - **The persistent tendency for prices to rise**
 - Money
 - Demand
 - Increasing Costs
 - Expectations
 
-How Does Inflation Work?
-Inflation represents the rate at which the cost of goods and services increase over a period of time.
+>How Does Inflation Work?
+>
+>Inflation represents the rate at which the cost of goods and services increase over a period of time.
 
 Demand-Pull - When demand for goods/service exceeds production capacity.
 Cost-Push - When production costs increase prices.
@@ -206,7 +207,6 @@ Built-In - When prices rise, wages rise too, in order to maintain living costs.
 Controlled Rate of Inflation
 
 Inflations also lead to...
-
 - Less price-competitive trading overseas
 - Fall in export earnings
 - Lower national output
@@ -215,12 +215,10 @@ Inflations also lead to...
 Question 46.4
 
 High Level of Unemployment
-
 - Social costs
 - Economic costs
 
 Types of Unemployment
-
 - Frictional unemployment (transitional unemployment)
 - Seasonal unemployment
 - Technological unemployment
@@ -229,19 +227,16 @@ Types of Unemployment
 - Cyclical unemployment (demand deficient unemployment)
 
 Demand-Side Policies
-
 - Expansionary fiscal policy (reduce taxes/increase government spending)
 - Expansionary monetary polict (reduce interest rates/increase borrowing & spending)
-- Protectionist measures (palcing tariffs - tax on foreign goods)
+- Protectionist measures (placing tariffs - tax on foreign goods)
 
 Supply-Side Policies
 
 Business Cycle
-
 - Recovery > Peak/Boom > Recession > Stump > Recovery
 
 Strategies
-
 - Cost reduction
 - Price reduction
 - Non-pricing strategies
@@ -262,7 +257,7 @@ Opportunies & Threats of:
 - Appreciation
 - Depreciation
 
-Qusetion 46.6 Gijs Van Oosten Jeans
+Question 46.6 Gijs Van Oosten Jeans
 
 Protectionist Measures - used to safeguard domestic businesses from foreign competitors
 
@@ -273,24 +268,21 @@ Protectionist Measures - used to safeguard domestic businesses from foreign comp
 5. Tehcnical and safety standards
 
 Environmental
-
 - Society
 - Environment
 - External Costs / Negative externalities
 
-Passive Smoking - Packaging Wsate - Gloal Warming - Air & Noise Pollution
+> Passive Smoking - Packaging Waste - Global Warming - Air & Noise Pollution
 
 Natural Disasters
-
 - 2011 Japanese Earthquake/Tsunami
 - 2021 Haitian Earthquake
 - 2021 BC Floods
 
-Medical Scares/Pandemimcs
-
+Medical Scares/Pandemics
 - 2003 SARS
 - 2020 COVID-19
-- 2021 Monkeypox
+- 2021 Monkey pox
 
 Political       {       Fiscal Policy
                 |
@@ -303,7 +295,6 @@ vs.             |      |             |
 Interventionist {  Taxation    Gov't Policies
 
 Taxation
-
 - Direct (income, inheritance, corporation)
 - Indirect (sales taxes, excise duties - gas/tobacco)
 - Progressive (income tax)
@@ -313,7 +304,6 @@ Taxation
 Policies
 
 Governments will spend revenues raised by taxes and other means to finance:
-
 - Infrastructure
 - Social Security
 - Education
@@ -323,31 +313,24 @@ Governments will spend revenues raised by taxes and other means to finance:
 - Law & Order
 
 Legal
-
-Consumer Protection Legislation
-Employee Protection Legislation
-Competition Legislation
-Social & Environmental Legislation
+- Consumer Protection Legislation
+- Employee Protection Legislation
+- Competition Legislation
+- Social & Environmental Legislation
 
 Ethical
+- Google - Good quality workers
+- The Body Shop - Good publicity
+- TOMS - Donation
+- Whole Foods Market - Attract & retain customers
 
-Google - Good quality workers
-The Body Shop - Good publicity
-TOMS - Donation
-Whole Foods Market - Attract & retain customers
-
-Internal Assessment
+## Internal Assessment
 
 1. Select a real business issue/problem that relates to any part of the syllabus
-
 2. Use one of the four key concepts
-
 3. Write research question - forward or backward looking
-
 4. Use primary and/or secondary research - 3-5 source documents
-
 5. Length of paper has max. 1,800 words
-
 6. Fully reference 3-5 osurce documnets in bibliography
 
 Preliminary Approval & Research
@@ -1747,7 +1730,9 @@ Investment Appraisal - Quantitative techniques used to calculate the financial c
 - Average rate of return (ARR)
 - Net present value (NPV)
 
-Payback Period - Period of time for an investment project to recoup cost of the initial investment
+## Payback Period
+
+Period of time for an investment project to recoup cost of the initial investment
 
 Initial Investment ($) / Contribution per month ($)
 
@@ -1763,15 +1748,14 @@ Payback Period Example \#2
 
 Suppose the construction of a new sports compelx that costs $1 million is expected to generate the following net cash flows over the first four years:
 
-Year 1 - $210,000
-Year 2 - $350,000
-Year 3 - $480,000
-Year 4 - $450,000
+> Year 1 - $210,000
+> Year 2 - $350,000
+> Year 3 - $480,000
+> Year 4 - $450,000
 
 What is the payback period?
 
 Payback Period - Advantages
-
 - Simplest and quickest method
 - Useful for fimrs with cash flow proble s
 - Breka-even before capital needs to be replaced (useful esp. in today's fast-paced technology)
@@ -1779,13 +1763,11 @@ Payback Period - Advantages
 - Less prone to forecasting errors (short term)
 
 Payback Period - Disadvantages
-
 - Encourage a short-termism
 - Contribution each month not constant
 - Focuses on time, not on profits
 
 Average Rate of Return
-
 - Calculates the average profit on an investment project as a percentage of the amount invested
 - Average rate of return
 - Compared with the base interest rate
@@ -1821,15 +1803,13 @@ Discounting: reverse of calculating compound interest, using a discount factor
 
 NPV = Sum of Present Values - Cost of Investment
 
-Advantages
+>[!check] Advantages
+> - helps managers to make more informed decisions
+> - more realistic than the ARR, especially for projects that are medium to long term
+> - more informed comparisons between projects of varying durations
 
-- helps managers to make more informed decisions
-- more realistic than the ARR, especially for projects that are medium to long term
-- more informed comparisons between projects of varying durations
-
-Disadvantages
-
-- discount rate (discount factor) can be subjective at times - interest rate and/or inflation rate can vary significantly over the course of an investment project
+>[!fail] Disadvantages
+> - discount rate (discount factor) can be subjective at times - interest rate and/or inflation rate can vary significantly over the course of an investment project
 
 Quantitative
 
@@ -1848,7 +1828,6 @@ E - External Shocks
 # Unit 3.9 - Budgeting
 
 Cost & Profit Centres
-
 - a department or unit of a business that incurs costs but is not involved in earning any profit
 - each unit need to be aware and accountable for their contribution towards the org's costs
 - a manager is likely assigned to monitor
@@ -1857,25 +1836,21 @@ Cost & Profit Centres
 - produce independent profit & loss accounts
 
 Cost & Profit Centres are often organized by:
-
 1. Function: Finance, Human Resources, Marketing
 2. Product: Basketball, Golf, Soccer, Track (Nike)
 Geography: Canada, UK, China (McDonalds)
 
 Main Roles of Cost & Profit Centres:
-
 1. Organization & Control Function
 2. Autonomy Function
 3. Motivating Function
 4. Accountability Function
 
 Budgeting
-
 - a financial plan of expected revenue nad expenditure for an organization or department for a given time period
 - an essential part of managing business organizations and shoujld be in line with the aims of the business
 
 Types of Budgeting:
-
 1. Flexible Budgets
 2. Incremental Budgets
 3. Marketing Budgets
@@ -1885,7 +1860,6 @@ Types of Budgeting:
 7. Zero Budgeting
 
 Considerations when Constructing a Budget:
-
 - Benchmarking Data
 - Negotiations
 - Organizational Objectives
@@ -1896,7 +1870,9 @@ Variances
 
 Budgetary Control: use of corrective measures taken to ensure actual outcomes equal the budgeted outcomes
 
-Variance = Actual Outcomes - Budgeted Outcomes
+$$
+Variance = \text{Actual Outcomes} - \text{Budgeted Outcomes}
+$$
 
 Favourable Variance (check-mark) & Adverse Variance (x)
 
@@ -1904,7 +1880,7 @@ Importance of Budgets in Decision Making
 
 Planning & Guidance > Coordination > Control > Motivational
 
-Internal Assessment
+## Internal Assessment
 
 A research project that requires students to apply business management tools and theories (content) to a real organization issue or problem (context), using a conceptual lens (concept).
 
@@ -1915,15 +1891,11 @@ A research project that requires students to apply business management tools and
 5. Length of paper has max. 1,800 words
 6. Fully reference 3-5 source documents in bibliography
 
-Preliminary Approval & Research - end of Year 1 & Summer
-
-First Draft & Feedback - September - October of Year 2
-
-Final Copy - November - December of Year 2
-
-Teacher Assessment - December - March of Year 2
-
-Submission to IB for Moderation - March - April of Year 2
+- Preliminary Approval & Research - end of Year 1 & Summer
+- First Draft & Feedback - September - October of Year 2
+- Final Copy - November - December of Year 2
+- Teacher Assessment - December - March of Year 2
+- Submission to IB for Moderation - March - April of Year 2
 
 SL - 30%
 HL - 20%
@@ -1933,21 +1905,18 @@ HL - 20%
 Research question: To what extent will Toyota's plan to launch a range of 15 new electric vehicles by 2025 improve its low market share in the UK's EV industry?
 
 Key concept: Sustainability
-
 Name of organization: Toyota
 
 (including the Business Management Toolkit):
-
 - Sustainability and the triple bottom line (featured in the TSM)
 - Business Management Toolkit: Ansoff's Matrix
-- Unit ___, etc.
+- Unit \_\_\_, etc.
 
 # Unit 4.1 - Marketing
 
-Needs & Wants - Marketing exists to address people's needs and wants
+Needs & Wants: **Marketing exists to address people's needs and wants**
 
 Psychology behind decisions
-
 - Price
 - Color
 - Size
@@ -1956,13 +1925,12 @@ Psychology behind decisions
 - Convenience
 
 The 4 P's
+- **P**roducts
+- **P**rice
+- **P**lace
+- **P**romotion
 
-- Products
-- Price
-- Place
-- Promotion
-
-Describe a recent purchase and the buying process behind it
+> Describe a recent purchase and the buying process behind it
 
 ```mermaid
 flowchart LR
@@ -1971,9 +1939,7 @@ Product-->|4 P's|Decision
 
 ```
 
-
 Marketing Skills
-
 - Management skills
 - Decision-making skills
 - Identifying needs & wants
@@ -1981,7 +1947,8 @@ Marketing Skills
 - Providing customer service/experience
 - Earning a profit or surplus
 
-Market Orientation - A marketing approach that focuses on making products that they can sell, rather than selling products that they can make. The focus is on the customer's needs and wants.
+>[!note] Market Orientation
+>A marketing approach that focuses on making products that they can sell, rather than selling products that they can make. The focus is on the customer's needs and wants.
 
 Greater Flexibility & Lower Risk High Costs for Market Research
 
@@ -1994,16 +1961,15 @@ Commercial Marketing
 - ethics play a small role
 
 Social Marketing
-- designed to bring about social cahnge using concepts from commercial marketing
+- designed to bring about social change using concepts from commercial marketing
 
->[!summary] Market Share
+>## Market Share
 >$$\frac{\text{firm's sale revenue}}{\text{industry's sale revenue}}\times 100$$
 
 Market Concentration
+- Top 5 smartphone companies has 69% of the market
 
-Top 5 smartphone companies has 69% of the market
-
->[!summary] Market Growth
+> ## Market Growth
 >
 >$$\frac{\text{Current Market Size - Original Market Size(\$)}}{\text{Original Market Size(\$)}}\times 100$$
 
@@ -2014,11 +1980,120 @@ Market Leadership - the position of a business having the largest market share i
 - Carbonated Soft Drink
 - Fast Food Chain
 
-Advantages:
-- Premium prices
-- Lower production costs
-- Longer product life cycles
-- Favorable distribution terms
-- More publicity and brand exposure
-- Easy to attract qualified employees
+> [!success] Advantages:
+> - Premium prices
+> - Lower production costs
+> - Longer product life cycles
+> - Favorable distribution terms
+> - More publicity and brand exposure
+> - Easy to attract qualified employees
 
+## Market Research
+
+Using existing information -> Secondary research:
+- Market analyses
+- Academic journals
+- Government publications
+- Media articles
+- Other online content
+
+Creating new information -> Primary research:
+- Surveys
+- Interviews
+- Focus groups
+- Observations
+
+### Primary Research - gathering new data first-hand for a specific purpose
+
+Surveys/Questionnaires
+- a specific series of questions, aimed ot avoid bias with objective wording
+- up-to-date and unique data
+- costly & time-consuming
+
+Interviews
+- one-on-one discussions to investigate personal cirucmstances and opinions
+- belief, attitudes, feelings can be examined in detail
+- non-quantifiable info; difficult to analyze
+
+Focus Groups
+- small discussion groups to gain insight into attitudes and behavior of respondents
+- group tend to share similar customer profile (ie. teenaged online gamers)
+
+Observations
+- involves watching how people behave and respond in different situations
+- can be done in a controlled environment or in real life
+
+Market Analyses
+- characteristics and outlook (trends) for a product or industry (ie. market size, market share, growth rate)
+
+Academic Journals
+- periodical publications from educational and research institutions
+- written by industry experts and academics
+
+Government Publications
+- census, social trends, labor market developments, trade statistics, unemployment figures, inflation rates
+
+Media Articles
+- newspapers, business-related journals/magazines, documentaries, books, websites
+
+Primary Research
+
+Uses
+- Provides direct information about customers' tastes and preferences.
+- Provide sinformation about reasons for purchases.
+- Provide sunique information that can give a competitive advantage.
+
+Limitations
+- Can be expensive and time-consuming to carry out.
+- Staff may need training to carry out the research.
+- Can be difficult to construct effective questions and experiments.
+
+### Secondary Research
+
+Uses
+- Provides information at lower cost than primary research.
+- Provides broader contextual information about the whole economy, population or general trends.
+- Published information is often already available.
+
+Limitations
+- The business must rely on the research methods of others.
+- Information that the business wants may not exist
+- Existing information may not be fit for the business' purpose; it coudl relate to a different issue, different subject or different target market.
+
+Sampling Methods
+
+Population - Sample
+
+Quota Sampling - certain nubmer of people (quota) from different market segments is selected; grouped by shared characteristics (age, level)
+
+Random Sampling - giving everyone in the population an equal chance of being selected for the sample
+
+Stratified Sampling - choosing a number of respondents frmo each stratum (segments) that is proportional to the population
+
+### Results from Data Collection
+
+Non-Sampling Errors
+- Human error or behavior
+
+Sampling Errors
+- Sample size too small
+- Sample size not respresentative of population
+- Inappropriate sampling method used
+- Bias in the research
+
+Presentation of Data
+- Bar charts
+- Pie charts
+- Line graphs
+- Histograms
+- Scatter diagrams
+- Tables
+
+Ethical Consniderations of Market Research
+
+5D's
+- Damage
+- Deceitful
+- Deceptive
+- Disclosure
+- Detachment
