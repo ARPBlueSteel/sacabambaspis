@@ -49,7 +49,12 @@ Normal
 | Table | Table | Table      |
 
 $math + - \times \div$
-$$displaymode\;math + - \times \div$$
+
+$$
+f(x) = \int_{-\infty}^\infty
+    f\hat(\xi),e^{2 \pi i \xi x}
+    \,d\xi
+$$
 
 $\ce{C2O2}$
 
