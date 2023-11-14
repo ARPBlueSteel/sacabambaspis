@@ -181,4 +181,60 @@ shared groups comments by reporting up chain of command to central committees - 
 
 ## The first Five Year Plan; 1953
 
+Communist 1st economic plan to increase standard of living
+
+Similar to USSR NEP
+	- State controlling major industries
+	- peasants could sell surplus after taxes
+Plan included aid from USSR & emphasis on heavy industry (coal, steel, oil, electric power)
+ 
+Plan successful but paid for at expense of peasantry & small industry
+
+Collectives
+	- collectivized land - **APC**'s (Agricultural Producers Co-operatives)
+	- collectivization was **unpopular** but Mao could not purge (like Stalin) because his revolution came from peasants so he "encouraged"
+		- family co-operatives (30-40 families)
+		- collective farms (80-100 families)
+
+## Hundred Flowers Campaign: 1957
+
+Mao encouraged intellects view of communism in an attempt to win them over in Marxist debate
+
+>[!quote]
+>
+>"let a hundred flowers bloom & a hundred schools of thought compete"
+
+Criticism of communism = fast & furious
+> "fragrant flower = poisonous weeds"
+
+Mao ended campaign = some intellects joined Mao & others were punished
+
+## Mao as Chairman 1958
+
+>"considering the future of communism"
+
+- Liu Shao Chi = President
+
+## Great Leap Forward: 1958-62
+
+- 2nd Five Year Plan = "Walking on Two Legs"
+- Central planning aside for local organization
+	- industrialization & agricultural output
+	- lack mechanization = hard manual labour
+- Focus on backyard steel mills or "backyard furnaces", irrigation canals, hydro dams
+- Cooperatives & collectives into 28000 communes (25000 people to commune)
+	- by 1958, 99% farms part of a commune
+	- commune responsible for local government (hsiang) roads, hospitals & schools
+- Communes too large & family life no longer central
+- Drought, floods & Mao's impractical ideas for agriculture (planting grain & killing birds) = problems
+- 1960 USSR pulled out advisors
+- 1961 communes cut to 1/3 of size & decisions returned to villages sized collective farms
+
+> Great Leap Forward 
+> - successes ( 1970's dramatic increase in industrial production)
+> - failures (famine, extreme hard labour, low standard of living)
+> 
+
+
+
 
