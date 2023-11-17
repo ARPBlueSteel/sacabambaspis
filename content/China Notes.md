@@ -233,7 +233,44 @@ Mao ended campaign = some intellects joined Mao & others were punished
 > Great Leap Forward 
 > - successes ( 1970's dramatic increase in industrial production)
 > - failures (famine, extreme hard labour, low standard of living)
-> 
+
+> Consolidation 1949-54
+
+## Great Famine
+
+- people ded
+
+# Maintaining Power
+
+## The Cultural Revolution: 1966-69
+
+Mao did not like "revisionism" so to counter it he launched "Cultural Revolution"
+- Supporter
+	- Jiang Qing (Mao's wife)
+	- Lin Biao (Minister of Defence)
+
+- Closed universities & schools
+	- Reviewed curriculum
+
+- Red guard (organized youths) 1967
+	- revisionsts
+	- specialists = "going down" (manual labour)
+- Red Guard too violent = PLA restored order
+
+- 1969 cultural revolution officially over
+	- school & universities re-opened but education more "red"
+	- many government officials dismissed
+	- "going down" & "barefoot doctors" common
+
+- Lin Piao
+	- Declared Culture Revolution over 1969
+	- 1971 died in plane crash (Theory: escape to USSR after attempting to overthrow Mao)
+
+- Chou En Lai attempts to unit orthedox and revisionist
+
+> What changed, and what remained the same in China between 1949 and 1954
+
+> Page 161 questions 1-3
 
 
 
