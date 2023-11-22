@@ -1,0 +1,8 @@
+- after peron, nobody could stabilize the country
+- military governments did not solve the probelm politically and economically
+- great national accord -peron returns
+- peron doesnt support his left wing supporters - target imperialism
+- populism should always have a relationship with its people and leader
+- Mao - The person became the ideology
+- Isabel overthrown by military
+	- rule by triumvirate

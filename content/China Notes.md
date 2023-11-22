@@ -272,6 +272,55 @@ Mao did not like "revisionism" so to counter it he launched "Cultural Revolution
 
 > Page 161 questions 1-3
 
+# China and the World
+
+1. Aggressive foreign & hostile towards the West
+	Especially during the Cold War
+
+## Invasion of Tibet: 1950
+- Tibet = Chinese Province
+- 1911 Tibet Independent
+- 1950 China invaded Tibet
+- Tibetans rebelled
+- Dalai Lama = refuge of India
+- 1965 Tibet = self-governing region of China
+
+## China backs North Korea
+- USA as UN in Korea - Gen. MacArthur too ambitious & advanced too close to Chinese border
+- China involved & supported N. Korea
+- Chinese campaign against foreigners
+
+## Sino-Soviet Split
+
+- 1920s-50s USSR Aid
+- Problems arose:
+	- lack USSR help in Korean War
+	- Slow return Soviet seized industries WW2
+	- China as a satellite
+	- USSR's foreign policy in Asia
+	- Khrushchev's peaceful co-existence = 2 superpowers
+- Split Complete: 1959
+	- 1959 = USSR criticized Great Leap Forward
+	- 1960 = USSR pulled technicians
+	- 1967 = China had her own nuclear bomb
+
+## Sino-Indian War 1962
+- Chinese resented India offering refuge to Dalai Lama
+- Chinese built road from Tibet to Sinkiang (Indian claim land)
+- India failed to drive Chinese out of area (China did finally return territory)
+
+## Vietnam War
+- Mao supported Ho Chi Minh of N. Vietnam in the Vietnam War
+
+## Ping-Pong Diplomacy
+- 1949 to 1970s USA refused to recognize Red China.
+	- USA = Taiwan as Permanent Member on UN Security Council
+- Early 1970s = USA Ping-Pong team visited China
+- 1971 Red China allowed seat on UN's Security Council
+	- USA sponsored China but supported Taiwan's indepent
+- 1972 Nixon visited & lifted bans on US trade with China
+	- with in 2 years China's trade increased 100 times
+	- Contention between West & China with human rights
 
 
 
