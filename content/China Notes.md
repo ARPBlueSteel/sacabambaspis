@@ -322,5 +322,19 @@ Mao did not like "revisionism" so to counter it he launched "Cultural Revolution
 	- with in 2 years China's trade increased 100 times
 	- Contention between West & China with human rights
 
+# Contemporary China
+
+1. "One China, two systems" 1997
+	- Hong kong unde British control since 1893
+	-  1983 negotiations on fate of Hong Kong
+		- 1997 British lease was up
+		- decision = China regain Hong Kong but the port would keep its capitalist economy for 50 years
+2. Hong Kong's return to China 1997
+
+> **Humang Rights**
+> Disregard for human rights remains a significant issue today.
+
+
+
 
 
