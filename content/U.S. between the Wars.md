@@ -53,3 +53,67 @@ KKK
 - 1925 - over 5 million
 - Discriminated against Jews, Catholics, Communists, & Coloured People
 
+## USA political Strucutre
+
+- President - Head of State & Government - 4 years
+	- Not a member of Congress
+- Congress - House of Representatives - 2 years
+- Senate - 2 for each state elected - 6 years
+
+## American Foreign Policy
+
+- 1900-1917 Isolationism (Monroe Doctrine)
+- 1917-1919 Internationalism
+- 1919-1941 Isolationism
+- International Agreements
+	- Washington Conference
+		- Naval disarmamanet
+	- Kellog-Briand Pact
+		- Not liking wars
+	- Reparations
+
+## American President
+
+- 1913 - 1920 Woodrow Wilson **Democratic**
+- 1921-1923 Warren G. Harding **Republican**
+- 1923 - 1929 Calvin Coolidge **Republican**
+- 1929 - Herbert Hoover **Republican**
+	- believes in government non-intervention
+- 1933 - 1945 Franklin D. Roosevelt **Democratic**
+	- believes in government intervention
+
+## US Economic Prospered 1920s
+
+- USA= British place as money-lending power
+- 1924 - 1928 USA loaned approx. $6 billion
+
+### The "Boom" Mass-Production
+
+- Increase in Car and Radio ownership
+- Energy: coal out = petrol, gas, electricity in
+- vacuum cleaners
+- washing macines
+- movies & radio
+
+### New Trends of the 20s
+- Jazz
+- Flappers
+- Bobbed hair
+- Short Skirts
+
+18th Amendment
+- Prohibiiton 1920-1933
+
+Reaction to prohibiton
+- Gangsters
+- bootleggers
+- Speakeasies
+- Al Capone
+
+
+
+
+
+
+
+
