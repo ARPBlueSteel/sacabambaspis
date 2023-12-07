@@ -104,16 +104,26 @@ KKK
 18th Amendment
 - Prohibiiton 1920-1933
 
+## Problems
+
 Reaction to prohibiton
 - Gangsters
 - bootleggers
 - Speakeasies
 - Al Capone
 
+### Economic Nationalism & Isolationism
+- Wealth wasn't sharedL 1/3 $ by 1/20 population
+- Fordney-McCumber Act 1922 raised tariffs
+- 1925 " Gold Standard " Returns
+- 1920s-30s New European Nations: Autarky=Self-Sufficiency
 
+## Problems Arise
+- Over-production
+- Agriculture - not prosperous
+- 1927 = economic slow down
+- 1929 = 60% of families under poverty line
+- 1920 - 1932 **trade union membership shrank**
+	- communist & un-American
 
-
-
-
-
-
+### U.S. 
