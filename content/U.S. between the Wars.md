@@ -195,7 +195,7 @@ Roosevelt's program with 3 stages:
 - Federal Emergency Relief Act: 500 million
 - Prohibition Abolished
 
-### 1st New Deal
+### 1st New Deal 1933-35
 
 >Aim: create jobs, road to recovery
 
@@ -219,5 +219,57 @@ Tennessee Valley Authority
 Civilian Conservation Corps
 - "make-work projects"
 
+### 2nd New Deal 1935-1939
+
+> Improve welfare services
+
+WPA Works Progressi adminsitons
+- "make work"
+- bullt hospitals, schools, playgrounds
+- arts, theatre, writing
+
+National Labour Relations Act
+- Workers = right to bargain collectively
+- Wagner Act 1933
+	- trade unions protected
+
+Social Security Act 1935
+- old age pension/UI/welfare
+- **unconstitutional**
+- Roosevelt & Supreme Court = conflict
+- 1937 SSA stays / Supreme Court remains
+
+### Opposition to Roosevelt
+
+Businessmen objected to:
+- government interference in economy
+- strong (central) Federal over power state
+- policies strengthened trade unions
+- social welfare & old age security
+	- Roosevelt was criticized as a Communist & a Fascist!
+
+### Achievements of the New deal
+- Revived American industry & agriculture
+- saved millions hungry & unemployed
+- modernized public buildings
+- **restored faith in US government**
+
+>[!quote] Roosevelt:
+>"People who are hungry and are out of a job are the stuff of which dictatorships are made"
+
+### End of the Depression (and the hidden costs)!
+
+Roosevelt's New Deal did not end the Great Depression
+
+World War II DID!
+
+would it have been possible to have tackled America's economic problems without increaisng the power of the government?
+
+Did Roosevelt betray democracy and "liberty" of the Americans by his New Deal?
 
 
+### In review
+
+1. The USSR and USA both faced major economic problems in the late 1920s and 1930s. Compare and contrast the manner in which respective leaders addressed these problems.
+2. Explain how the industrial and economic "gap" closed between the USSR & USA by the late 1930s.
+3. Was it inevitable that the USA and uSSR would rise to the status of super powers (world leaders)?
