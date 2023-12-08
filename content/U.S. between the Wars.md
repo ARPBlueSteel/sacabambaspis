@@ -126,4 +126,98 @@ Reaction to prohibiton
 - 1920 - 1932 **trade union membership shrank**
 	- communist & un-American
 
-### U.S. 
+### The Crash
+
+>[!Hoover's Policy]
+>
+>President. Herbert Hoover & government knew market was about to crash.
+
+Government didn't get involved because it wasn't its job (capitalist = hands off business)
+
+#### Oct 24 1929 (Black Thursday)
+- Stock prices crash
+- J.P. Morgan & others try to instil confidence in market
+- Market settles
+
+### Oct 29 1929 (Black Tuesday)
+- Market collapses
+- "Great Crash" has occurred
+- $40 billion disappear from economy
+
+### The Reaction
+- 1930 Smoot-Hawley Tariff Bill
+- Britain brings in Import Duties Bill (1930)
+- World Trade slows:
+	- Mass Unemployment
+	- US lends less $
+		"every nation should be prepared to look after itself"
+- "Bank for International Settlements" - World Bank
+- 1932 most nations in Depression
+
+## The Great Depression
+
+Reconstruction Finance Corporation
+- $2 billion to industry
+- not directly to unemployed
+- self-reliance didn't help economy
+- RFC a failure
+
+Effects
+- Hoovervilles (shantytowns)
+
+1931 Hoover
+- Moratorium (delay) on international government debt because Austria & Germany = close to financial collapse
+- other nations depending on these payments = chaos
+- 1932 worst year = unemployed 25%
+
+## FDR
+
+>[!quote] Franklin Delano Rossevelt
+>The only thing we have to fear is fear itself
+
+- FDR becomes president on March 4, 1933 (1933-1945)
+- Paralyzed by polio in 1921
+- Fireside Chats
+
+Roosevelt's program with 3 stages:
+- The Hundred Days
+- 1st New Deal 1933-35
+- 2nd New Deal 1935-39
+
+### Policy Aims
+
+1. TO revive businesses, industry & farming
+2. To help unemployed find jobs & give immediate food & money
+
+### The Hundred Days
+- Vigorous activity
+- Emergency banking Act:
+- Federal Emergency Relief Act: 500 million
+- Prohibition Abolished
+
+### 1st New Deal
+
+>Aim: create jobs, road to recovery
+
+Alphabetical Agencies
+
+Agriculture Adjustment Act
+- output restricted/force prices up
+- production quotas
+- 1935 unconstitutional
+
+National Industry Recovery Administration
+- Industries = codes of production and prices
+- restricted output
+- 1935 unconstitutional
+
+Tennessee Valley Authority
+- **government direct competition with private sector**
+- hydro-electric dams in 7 states
+- supply cheap power = economic development
+
+Civilian Conservation Corps
+- "make-work projects"
+
+
+
