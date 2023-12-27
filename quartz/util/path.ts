@@ -1,9 +1,5 @@
 import { slug as slugAnchor } from "github-slugger"
 import type { Element as HastElement } from "hast"
-import rfdc from "rfdc"
-
-const clone = rfdc()
-
 // this file must be isomorphic so it can't use node libs (e.g. path)
 
 export const QUARTZ = "quartz"
@@ -125,8 +121,7 @@ const _rebaseHastElement = (
   }
 }
 
-export function normalizeHastElement(rawEl: HastElement, curBase: FullSlug, newBase: FullSlug) {
-  const el = clone(rawEl) // clone so we dont modify the original page
+export function normalizeHastElement(el: HastElement, curBase: FullSlug, newBase: FullSlug) {
   _rebaseHastElement(el, "src", curBase, newBase)
   _rebaseHastElement(el, "href", curBase, newBase)
   if (el.children) {
