@@ -50,11 +50,7 @@ Normal
 
 $math + - \times \div$
 
-$$
-f(x) = \int_{-\infty}^\infty
-    f\hat(\xi),e^{2 \pi i \xi x}
-    \,d\xi
-$$
+$$f(x) = \int_{-\infty}^{\infty}f\hat(\xi),e^{2 \pi i \xi x}\,d\xi$$
 
 $\ce{C2O2}$
 
