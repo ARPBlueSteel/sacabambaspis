@@ -2,9 +2,11 @@
 
 This site is intended to be a successor to the [rhsibresources](https://rhsibresources.wixsite.com/bettergrind) (pass:`castrolikesC0WS`) site. This is intended to be a continuous project where students build upon the success (and failure) of other students to help others achieve more.
 
-This site differs from other resource repositories in that it is intended to be accessible to all RHS IB students as a crystallization of our collective knowledge. In essence, it is a digital garden of information maintained by IB student for IB students. As such
+This site differs from other resource repositories in that it is intended to be accessible to all RHS IB students as a crystallization of our collective knowledge. In essence, it is a digital garden of information maintained by IB student for IB students.
 
-For the more technical people out there, this is generated using [Quartz](https://quartz.jzhao.xyz/). Quartz is a static generator that transforms Markdown content into fully functional websites. Curators of this site typically use 
+We believe that the difference between a good IB student and a great IB student is the resources they have access to. Therefore, the sites contributors hopes to empower every IB student to be great.
+
+For the more technical people out there, this is generated using [Quartz](https://quartz.jzhao.xyz/). Quartz is a static generator that transforms Markdown content into fully functional websites. Curators of this site typically use [Obsidian](https://obsidian.md/) to edit the MarkDown files in site.
 # People
 
 [[Site Curators]]

@@ -14,7 +14,9 @@ Drawing Tablet/Tablets/Ipads etc.
 - [Onenote](https://www.onenote.com/)
 ### Misc
 - [Google Keep](https://keep.google.com/)
-- []
+- [Google Docs](https://docs.google.com/)
+- [Windows Notepad](https://apps.microsoft.com/detail/9MSMLRH6LZF3?hl=en-us&gl=US)
+- [Apple Notes](https://www.icloud.com/notes)
 ## Time Management:
 > I would try all of these out to see which one fits you the best - Ethan
 - Notion https://www.notion.so/
@@ -26,5 +28,5 @@ Drawing Tablet/Tablets/Ipads etc.
 [Anki](https://apps.ankiweb.net) is a powerful tool for memorization. I would strongly recommend you try out Anki if you take courses that require a lot of rout memorization such as [[Biology]] or [[Geography]]. 
 
 Quizlet https://quizlet.com
-## Research
+# Research Tools
 
