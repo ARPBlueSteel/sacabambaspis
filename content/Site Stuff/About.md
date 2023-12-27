@@ -36,14 +36,14 @@ Find out how you can help [[Contributing]]
 
 ## ARPBlueSteel (Ethan)
 
-![|250](https://images-ext-2.discordapp.net/external/aG4FS0IiZxng9PNsnvRBKO0FjmY2pYLDHVlA_jZtK7A/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/379119964851798016/d1a1a3020122a53f010ffc7154202f9b.png?format=webp&quality=lossless)
+![image|250](https://images-ext-2.discordapp.net/external/aG4FS0IiZxng9PNsnvRBKO0FjmY2pYLDHVlA_jZtK7A/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/379119964851798016/d1a1a3020122a53f010ffc7154202f9b.png?format=webp&quality=lossless)
 
 > - Grad 2024
 > - Lead Contributor and Site Curator
 > - Blahaj Fan
 ## RllySleepy (Philip)
 
-![|250](https://images-ext-1.discordapp.net/external/fezhX7ZQV1L6Xu6mHBriZPBbIIhOyxnWLT3eQCaxFTc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/566357330342445057/f61b7d7920530cf1d8c0132d36951c94.png?format=webp&quality=lossless)
+![image|250](https://images-ext-1.discordapp.net/external/fezhX7ZQV1L6Xu6mHBriZPBbIIhOyxnWLT3eQCaxFTc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/566357330342445057/f61b7d7920530cf1d8c0132d36951c94.png?format=webp&quality=lossless)
 
 > - Grad 2024
 > - `this file kekw`
