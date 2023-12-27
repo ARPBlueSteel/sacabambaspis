@@ -12,10 +12,11 @@ It is important to understand what are your purposes of taking notes before sele
 Also, keep in mind what classes you will be taking when developing a note taking routine. For example, a student who takes typed notes during a class with Mr. Peters might struggle due to the difficulties in typing math (**I beg, I beg, do not use [LaTeX](https://www.latex-project.org/) to take notes during math class**). Teachers from RHS present information in different ways and in some cases you might not need to take notes for certain courses. 
 
 **In general:**
-- [[English]] and Language courses require minimal note taking except for formats and grammar. In many cases the teacher will give a handout.
+- [[English]] and Language Acq courses require minimal note taking except for formats and grammar. In many cases the teacher will give a handout.
 - [[History]] is mostly text based
 - Math tends to require custom symbols and diagrams
 - [[Biology]] is mostly text based with the occasional diagram
+- For [[Chemistry]] both Yuen and Eastwood hands out note packages which are fill in and additional note taking is usually not needed.
 
 ## How do you organize information?
 
@@ -25,7 +26,16 @@ Also, keep in mind what classes you will be taking when developing a note taking
 
 ## Physical Note Taking
 
-###  Paper
+### General Paper Note Taking
+Values:
+- Drawing and math notes are very easy
+- No need for technology
+- Many colors
+
+Limitations:
+- Can be more difficult to organize
+- Slower than typing for the vast majority of people
+- Requires you to have actually good/legible handwriting.
 
 ## Digital Note Taking
 
@@ -36,7 +46,7 @@ Values:
 - Completely free (you can support the developer for early access)
 - Lightweight and runs well on older devices, notes are easily transferred between different platforms
 
-Limitation:
+Limitations:
 - Nonexistent stylus support means that taking notes during math is a pain
 - Offline, so syncing is dependent on the user (or you can pay the devs \$8 a month)
 - Can be too simplistic due to its bare bones nature, plugins are annoying to configure

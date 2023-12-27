@@ -11,7 +11,7 @@ title: Project Sacabambaspis
 [[Subject Support by Group]] 
 [[Advice]] 
 [[External Resources]] 
-[[IA and EE Exemplars]] 
+[[IA and EE Support]] 
 ## Contact & Community
 
 [IB Misery Discord](https://discord.com/)
