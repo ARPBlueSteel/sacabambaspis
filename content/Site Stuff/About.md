@@ -36,14 +36,17 @@ Find out how you can help [[Contributing]]
 
 ## ARPBlueSteel (Ethan)
 
-> - Grad 2024
+> - Grad 2024 DP
+> - ``
 > - Lead Contributor and Site Curator
 > - Blahaj Fan
 ## RllySleepy (Philip)
 
-> - Grad 2024
+> - Grad 2024 DP
 > - `this file kekw`
+> - Lead Contributor for [[History]]
 
-
-
-
+## Noisymarc (Michael)
+> - Grad 2024 CC
+> - `"terrible"`
+> - Lead Contributor for [[Digital Societies]]
