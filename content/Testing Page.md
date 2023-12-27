@@ -46,13 +46,15 @@ Normal
 
 | Table | Table | Table |
 | ----- | ----- | ----- |
-| Table | Table | Table      |
+| Table | Table | Table |
 
 $math + - \times \div$
 
-$$f(x) = \int_{-\infty}^{\infty}f\hat(\xi),e^{2 \pi i \xi x}\,d\xi$$
+$$
+f(x) = \int_{-\infty}^{\infty}f\hat(\xi),e^{2 \pi i \xi x}\,d\xi
+$$
 
-$\ce{C2O2}$
+$\text{Chemical Formulas}\ce{CH3COOH}$
 
 Footnotes [^1]
 Big Footnote[^bignote]
