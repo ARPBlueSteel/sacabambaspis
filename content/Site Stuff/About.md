@@ -1,4 +1,4 @@
-![[mocha-noise4-sacabambaspis-chan-by-emesan-desu-v0-vb_J2hpL_zfCURJ5OPG8dGUnKf-ze3dJXeAKOZzvsII.webp]]
+![[ezgif-3-8d9291fb72.jpg]]
 
 # This Site
 
