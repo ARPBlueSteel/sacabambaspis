@@ -16,6 +16,6 @@ title: Project Sacabambaspis
 [[EE Support]] 
 ## Contact & Community
 
-[IB Misery Discord](https://discord.com/)
+[IB Misery Discord](https://discord.gg/tX6FY5Azeq)
 
 >For Site Concerns please DM `arpbluesteel` on discord or email `leonidas98735698@gmail.com`. Expect a response within 2-5 business days **I AM VERY BUSY PLEASE DO NOT BOMBARD ME WITH RANDOM REQUESTS**.
