@@ -11,9 +11,11 @@ title: Project Sacabambaspis
 [[Subject Support by Group]] 
 [[Advice]] 
 [[External Resources]] 
-[[IA and EE Support]] 
+[[EE Support]] 
 ## Contact & Community
 
 [IB Misery Discord](https://discord.com/)
-[Sacabambaspis Discord](https://discord.com/)
-[[Site Management]]
+
+For Site Concerns please DM `arpbluesteel` on discord or email `leonidas98735698@gmail.com`. Expect a response within 2-5 business days.
+
+For Bug Reports please 

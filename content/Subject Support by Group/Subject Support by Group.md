@@ -29,4 +29,4 @@
 
 **Group 6: The Arts**
 
-TBA
+LOL

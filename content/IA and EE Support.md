@@ -1,1 +1,0 @@
-[[Extended Essay Advice and Resources]]
