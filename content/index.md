@@ -1,6 +1,8 @@
 ---
 title: Project Sacabambaspis
 ---
+
+![[mocha-noise4-167876dfadd9965298bcdcbd2bad8ada.jpg]]
 # Welcome Aboard Project Sacabambaspis 
 
 [[About]]

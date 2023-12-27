@@ -1,3 +1,5 @@
+![[mocha-noise4-sacabambaspis-chan-by-emesan-desu-v0-vb_J2hpL_zfCURJ5OPG8dGUnKf-ze3dJXeAKOZzvsII.webp]]
+
 # This Site
 
 This site is intended to be a successor to the [rhsibresources](https://rhsibresources.wixsite.com/bettergrind) (pass:`castrolikesC0WS`) site. This is intended to be a continuous project where students build upon the success (and failure) of other students to help others achieve more.
