@@ -56,6 +56,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.HardLineBreaks(),
       Plugin.Description(),
+      Plugin.Depthifier({ selectors: ["strong", "paragraph"] })
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
