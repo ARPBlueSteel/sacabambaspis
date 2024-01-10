@@ -1,3 +1,101 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+[saved-theme="dark"] {
+    article {
+        h1 {
+            color: rgb(255, 117, 127);
+        }
+
+        h2 {
+            color: rgb(224, 175, 104);
+        }
+
+        h3 {
+            color: rgb(158, 206, 106);
+        }
+
+        h4 {
+            color: rgb(125, 207, 255);
+        }
+
+        h5 {
+            color: rgb(122, 162, 247);
+        }
+
+        h6 {
+            color: rgb(187, 154, 247);
+        }
+    }
+
+    strong,
+    code {
+        color: #7dcfff !important;
+    }
+
+    span.text-highlight {
+         
+        background-color: rgba(255, 158, 100, 0.4) !important;
+    }
+
+    em {
+        color: #7dcfff !important;
+        ;
+     }
+
+     ::selection {
+        background: rgba(39, 71, 125, 0.6);
+      }
+}
+
+[saved-theme="light"] {
+article {
+        h1 {
+            color: #8c4308;
+    
+        }
+
+        h2 {
+            color: rgb(143, 94, 21);
+        }
+
+        h3 {
+            color: #33635c;
+        }
+
+        h4 {
+            color: rgb(15, 75, 110);
+        }
+
+        h5 {
+            color: rgb(52, 84, 138);
+        }
+
+        h6 {
+            color: rgb(90, 74, 120);
+        }
+    }
+
+    strong{
+        color: #0F4B6E !important;
+    }
+    
+    em {
+        color:#0F4B6E !important;
+    }
+
+    code {
+      color: #343B58 !important; /* tokyonight foreground */
+      background-color: #C3C5C9;
+    }
+
+    span.text-highlight {
+        color: #343B58 !important;
+        background: #BCA093 !important;
+    }
+
+}
+
+::selection {
+    background: rgba(39,71,125,0.6)!important;
+    // color: var(--darkgray);
+  }
