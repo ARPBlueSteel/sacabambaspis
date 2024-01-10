@@ -1,3 +1,11 @@
+| **Group 1: Studies in Language and Literature** | **Group 2: Language Acquisition**<br> | **Group 3: Individuals and Societies** | **Group 4: Sciences** | **Group 5: Mathematics** | **Group 6: Arts** |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| [[English]] | [[French]] | [[Geography]] | [[Physics]] | [[Math AA SL]] | LOL |
+|  | [[Mandarin]] | [[History]] | [[Chemistry]] | [[Math AA HL]] |  |
+|  | [[Japanese]] | [[Business]] | [[Biology]] |  |  |
+|  |  | [[Digital Societies]] |  |  |  |
+
+
 
 **Group 1: Studies in Language and Literature**
 
