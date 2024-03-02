@@ -1,11 +1,12 @@
 # By Region
 
 ## Asia
-[[China - Mao]]
+
+
 ## Europe
-[[Germany - Adolf Hitler]]
-[[Italy - Mussolini]]
-[[USSR - Lenin & Stalin]]
+
+[[Chapter 2 - Mussolini and Italy]]
+[[Chapter 3 - Hitler and Germany]]
 
 ## The Americas
 [[Argentina - Peron]]
