@@ -19,6 +19,7 @@ These trigger words often signal critical thinking. The bold words are the key t
 [[3.1 Data]]
 [[3.2 Algorithms and Code]]
 [[3.3 Computing Devices]]
+[[3.4 Networks]]
 ### 4. Context
 [[4.1 Cultural Context]]
 ### 5. HL extension: Challenges and Interventions:

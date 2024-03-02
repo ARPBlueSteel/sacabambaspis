@@ -12,5 +12,4 @@
 [[Brazil - Vargas]]
 [[Cuba - Fidel Castro]]
 [[Chile - Pinochet]]
-[[Panama - Noriega]]
 
