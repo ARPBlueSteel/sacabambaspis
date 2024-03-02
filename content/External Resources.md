@@ -28,5 +28,17 @@ Drawing Tablet/Tablets/Ipads etc.
 [Anki](https://apps.ankiweb.net) is a powerful tool for memorization. I would strongly recommend you try out Anki if you take courses that require a lot of rout memorization such as [[Biology]] or [[Geography]]. 
 
 Quizlet https://quizlet.com
+
+## Sources for Past Papers and Revision Questions
+
+link rot happens for these things
+
+[IB Documents](https://dl.ibdocs.re/)
+[Pestle](https://pestlev3.netlify.app](https://pestlev3.netlify.app/)
+[Revision Dojo](https://www.revisiondojo.com/)
 # Research Tools
 
+> JSTOR IS A FUCKING LIE USE SCIHUB+ANNA's ARCHIVE
+
+[JSTOR](https://www.jstor.org/)
+[Google Scholar](https://scholar.google.ca/)

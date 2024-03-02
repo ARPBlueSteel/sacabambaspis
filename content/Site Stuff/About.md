@@ -44,7 +44,6 @@ Find out how you can help [[Contributing]]
 
 > Grad 2024 DP, Lead Contributor for [[History]]
 > `this file kekw`
-> 
 
 ## Noisymarc (Michael)
 > Grad 2024 CC
