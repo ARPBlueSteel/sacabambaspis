@@ -1,4 +1,7 @@
 ![[sacabambaspis.gif]]
+
+![](https://www.youtube.com/watch?v=JlBDWXDGDzg)
+
 > [!info]   "Ode to the Armored Guardian: Sacabambaspis"
 > In ancient times, when oceans roared, And creatures of the deep were adored, There dwelled a wondrous, ancient fish, Sacabambaspis, our fervent wish.
 > 
