@@ -12,5 +12,6 @@
 - [[Russia and the USSR]]
 - [[The People's Republic of China]]
 - [[U.S. between the Wars]]
+- [[Case Study 1 Japanese Expansion into East Asia (1931-1941)]]
 
 
