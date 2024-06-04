@@ -52,19 +52,13 @@ const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
               allFiles: pages,
             }
 
-            const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`).at(0)
-
-            const root = contentPage?.htmlAst
-            const content =
-              !root || root?.children.length === 0
-                ? contentPage?.description
-                : htmlToJsx(contentPage.filePath!, root)
-
+            const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`)[0]
+            const content = contentPage?.description
             return (
               <div>
                 <h2>
                   <a class="internal tag-link" href={`../tags/${tag}`}>
-                    {tag}
+                    #{tag}
                   </a>
                 </h2>
                 {content && <p>{content}</p>}
