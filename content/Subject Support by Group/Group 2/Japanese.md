@@ -1,3 +1,5 @@
+<iframe width="100%" src="https://www.youtube-nocookie.com/embed/xc-NtHkhUaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Reading Practice:[NHKNewsWebEasy](https://www3.nhk.or.jp/news/easy/)
 ## Vocabulary Flashcards courtesy of Megan
 
@@ -13,8 +15,6 @@ Reading Practice:[NHKNewsWebEasy](https://www3.nhk.or.jp/news/easy/)
 
 ### Oral Prep
 
-https://quizlet.com/ca/881797171/ib-sl-japanese-oral-vocab-flash-cards
-https://quizlet.com/ca/880582459/japanese-ib-sl-oral-flash-cards
 
 ### Final Stuff
 [Japanese SL Vocab](https://quizlet.com/ca/907346028/ib-japanese-sl-vocab-flash-cards)
