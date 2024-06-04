@@ -1,11 +1,4 @@
-
-## Useful Websites
-
-IB Resources: [Rajakumar Sensei's Japanese Page - IB](https://japanese4schools.co.uk/ibas/)
-
-Reading Practice: [NHKNewsWebEasy](https://www3.nhk.or.jp/news/easy/)
-
-[Japanese (Kanji) Language Course by Memrise](https://www.memrise.com/en/learn-japanese/japanese-course )
+Reading Practice:[NHKNewsWebEasy](https://www3.nhk.or.jp/news/easy/)
 ## Vocabulary Flashcards courtesy of Megan
 
 [Unit 1](https://quizlet.com/ca/735665869/ib-sl-japanese-unit-1-flash-cards)
@@ -20,8 +13,8 @@ Reading Practice: [NHKNewsWebEasy](https://www3.nhk.or.jp/news/easy/)
 
 ### Oral Prep
 
-[Oral Vocab Flashcards](https://quizlet.com/ca/881797171/ib-sl-japanese-oral-vocab-flash-cards)
-[Japanese IB SL Oral Flashcards](https://quizlet.com/ca/880582459/japanese-ib-sl-oral-flash-cards)
+https://quizlet.com/ca/881797171/ib-sl-japanese-oral-vocab-flash-cards
+https://quizlet.com/ca/880582459/japanese-ib-sl-oral-flash-cards
 
 ### Final Stuff
 [Japanese SL Vocab](https://quizlet.com/ca/907346028/ib-japanese-sl-vocab-flash-cards)
