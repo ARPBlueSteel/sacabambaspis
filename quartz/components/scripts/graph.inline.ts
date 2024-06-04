@@ -211,8 +211,25 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         .selectAll(".link")
         .filter((d: any) => d.source.id === currentId || d.target.id === currentId)
 
+<<<<<<< HEAD
       // highlight neighbour nodes
       neighbourNodes.transition().duration(200).attr("fill", color)
+=======
+      if (focusOnHover) {
+        // fade out non-neighbour nodes
+        connectedNodes = linkNodes.data().flatMap((d: any) => [d.source.id, d.target.id])
+
+        d3.selectAll<HTMLElement, NodeData>(".link")
+          .transition()
+          .duration(200)
+          .style("opacity", 0.2)
+        d3.selectAll<HTMLElement, NodeData>(".node")
+          .filter((d) => !connectedNodes.includes(d.id))
+          .transition()
+          .duration(200)
+          .style("opacity", 0.2)
+      }
+>>>>>>> parent of 0b9f79e1 (feat(graph): obsidianLikeFocusOnHover (#1017))
 
       // highlight links
       linkNodes.transition().duration(200).attr("stroke", "var(--gray)").attr("stroke-width", 1)
@@ -231,6 +248,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         .style("font-size", bigFont + "em")
     })
     .on("mouseleave", function (_, d) {
+<<<<<<< HEAD
+=======
+      if (focusOnHover) {
+        d3.selectAll<HTMLElement, NodeData>(".link").transition().duration(200).style("opacity", 1)
+        d3.selectAll<HTMLElement, NodeData>(".node").transition().duration(200).style("opacity", 1)
+      }
+>>>>>>> parent of 0b9f79e1 (feat(graph): obsidianLikeFocusOnHover (#1017))
       const currentId = d.id
       const linkNodes = d3
         .selectAll(".link")
